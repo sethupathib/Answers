@@ -46,11 +46,11 @@ You can find my resume [**here**](https://github.com/sethupathib/resume/blob/mas
 4. Contemporary Strategy Analysis by Robert M. Grant.
 ------------------------
 ### **To Do List**
-1. Complete CB Competitive Programming Lectures.
+1. Complete CB Competitive Programming Lectures & [**Graph Theory.**](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh)
 2. Complete CB Dynamic Programming Lectures.
-3. Work on generating layouts for analog designs using ALIGN & with OSU180 PDK.
+3. Work on generating layouts for analog designs using ALIGN & with OSU180 PDK. (Urgent)
 4. Compete in Codeforces Live Contests ASAP.
-5. Preparation.
+5. Preparation. (Urgent)
 6. How to work for "OpenRoad" Development? (Routing/STA Engine).
 
 ------------------------
@@ -58,6 +58,13 @@ You can find my resume [**here**](https://github.com/sethupathib/resume/blob/mas
 1. Know about some analog designs from Shreyl.
 2. Know about PLL design.
 3. Python for Quant Finance Lecture on Udemy.
-
-
-
+4. JEE Math Lectures.
+------------------------
+### **Much Much Later (Probably after 1 year)**
+1. Design related ideas. Interior Design. Design of Machines. Design in General.
+2. Drawing.
+3. [**Surviving IIM-A**](https://www.youtube.com/playlist?list=PLIO8daZRc7DcLyv5ptsJwU-aqnZc0Tznt)
+4. [**Consulting Cases**](https://www.youtube.com/playlist?list=PLIO8daZRc7Dfu0GloK0HJbU2k6v1wNoDX) & [**Example Cases**](https://www.youtube.com/playlist?list=PLIO8daZRc7DdLTW-PK4tpQpePP3ee-TkD)
+5. [**Cases Over Coffee**](https://casesovercoffee.com)
+6. [**Consulting Interview Prep**](https://www.youtube.com/user/MConsultingPrep/playlists)
+7. [**Consult Case Prep**](https://www.youtube.com/user/firmsconsulting/playlists)
