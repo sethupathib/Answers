@@ -70,9 +70,12 @@ You can find my resume [**here**](https://github.com/sethupathib/resume/blob/mas
 5. [**Cases Over Coffee.**](https://casesovercoffee.com)
 6. [**Consulting Interview Prep.**](https://www.youtube.com/user/MConsultingPrep/playlists)
 7. [**Consult Case Prep.**](https://www.youtube.com/user/firmsconsulting/playlists)
-8. [**The Younger Me Project**](https://www.youtube.com/channel/UC7xmSTfYgi2eqIV_ABw-eXg)
+8. [**The Younger Me Project.**](https://www.youtube.com/channel/UC7xmSTfYgi2eqIV_ABw-eXg)
 9. GRE/CAT practice.
+10. PhD Ideas.
 ------------------------
 ### **Hacks**
 1. Getting up early.
 2. Spending less time on "Youtube Surfing".
+3. Focussing on the present i.e giving all in.
+
