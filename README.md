@@ -1,5 +1,6 @@
 # Answers
 This readme will have links to my Quora Answers, Medium, CareerHigh articles. Also has my codezen and behance profiles.
+You can find my resume [**here**](https://github.com/sethupathib/resume/blob/master/Sethu_CV_edited.pdf).
 
 ### [**medium.com**](https://medium.com/@sethupathibalakrishnan) articles
 1. [**My Experiences on Anything and Everything in Life.**](https://medium.com/@sethupathibalakrishnan/my-experiences-on-anything-and-everything-in-life-231eb4699609)
