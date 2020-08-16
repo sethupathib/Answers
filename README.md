@@ -31,3 +31,10 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 [**Sethupathi Balakrishnan on LinkedIn**](https://www.linkedin.com/in/sethupathi-balakrishnan-4a528767/)
 ### [**Twitter**](https://twitter.com) Handle
 [**Sethupathi Balakrishnan on Twitter**](https://twitter.com/bsethupathi)
+
+------------------------
+
+### **Intriguing Article List**
+1.[**The Gervais Principle, Or The Office According to “The Office**](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
+
+
