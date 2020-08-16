@@ -50,7 +50,7 @@ You can find my resume [**here**](https://github.com/sethupathib/resume/blob/mas
 1. Complete CB Competitive Programming Lectures & [**Graph Theory.**](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh)
 2. Complete CB Dynamic Programming Lectures.
 3. Work on generating layouts for analog designs using ALIGN & with OSU180 PDK. (Urgent)
-4. Compete in Codeforces Live Contests ASAP.
+4. Compete in Codeforces Live Contests ASAP (Difficult but I have to do). 
 5. Preparation. (Urgent)
 6. How to work for "OpenRoad" Development? (Routing/STA Engine).
 7. Learning Shell Scripting.
