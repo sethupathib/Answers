@@ -35,6 +35,6 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 ------------------------
 
 ### **Intriguing Article List**
-1.[**The Gervais Principle, Or The Office According to “The Office**](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
+1. [**The Gervais Principle, Or The Office According to “The Office**](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
 
 
