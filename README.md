@@ -46,6 +46,7 @@ You can find my resume [**here**](https://github.com/sethupathib/resume/blob/mas
 4. Contemporary Strategy Analysis by Robert M. Grant.
 ------------------------
 ### **To Do List**
+0. **Progress Tracking!**
 1. Complete CB Competitive Programming Lectures & [**Graph Theory.**](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh)
 2. Complete CB Dynamic Programming Lectures.
 3. Work on generating layouts for analog designs using ALIGN & with OSU180 PDK. (Urgent)
