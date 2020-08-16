@@ -52,6 +52,7 @@ You can find my resume [**here**](https://github.com/sethupathib/resume/blob/mas
 4. Compete in Codeforces Live Contests ASAP.
 5. Preparation. (Urgent)
 6. How to work for "OpenRoad" Development? (Routing/STA Engine).
+7. Learning Shell Scripting.
 
 ------------------------
 ### **Much Later**
@@ -63,8 +64,14 @@ You can find my resume [**here**](https://github.com/sethupathib/resume/blob/mas
 ### **Much Much Later (Probably after 1 year)**
 1. Design related ideas. Interior Design. Design of Machines. Design in General.
 2. Drawing.
-3. [**Surviving IIM-A**](https://www.youtube.com/playlist?list=PLIO8daZRc7DcLyv5ptsJwU-aqnZc0Tznt)
-4. [**Consulting Cases**](https://www.youtube.com/playlist?list=PLIO8daZRc7Dfu0GloK0HJbU2k6v1wNoDX) & [**Example Cases**](https://www.youtube.com/playlist?list=PLIO8daZRc7DdLTW-PK4tpQpePP3ee-TkD)
-5. [**Cases Over Coffee**](https://casesovercoffee.com)
-6. [**Consulting Interview Prep**](https://www.youtube.com/user/MConsultingPrep/playlists)
-7. [**Consult Case Prep**](https://www.youtube.com/user/firmsconsulting/playlists)
+3. [**Surviving IIM-A.**](https://www.youtube.com/playlist?list=PLIO8daZRc7DcLyv5ptsJwU-aqnZc0Tznt)
+4. [**Consulting Cases**](https://www.youtube.com/playlist?list=PLIO8daZRc7Dfu0GloK0HJbU2k6v1wNoDX) & [**Example Cases.**](https://www.youtube.com/playlist?list=PLIO8daZRc7DdLTW-PK4tpQpePP3ee-TkD)
+5. [**Cases Over Coffee.**](https://casesovercoffee.com)
+6. [**Consulting Interview Prep.**](https://www.youtube.com/user/MConsultingPrep/playlists)
+7. [**Consult Case Prep.**](https://www.youtube.com/user/firmsconsulting/playlists)
+8. [**The Younger Me Project**](https://www.youtube.com/channel/UC7xmSTfYgi2eqIV_ABw-eXg)
+9. GRE/CAT practice.
+------------------------
+### **Hacks**
+1. Getting up early.
+2. Spending less time on "Youtube Surfing".
