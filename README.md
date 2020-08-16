@@ -38,4 +38,26 @@ You can find my resume [**here**](https://github.com/sethupathib/resume/blob/mas
 ### **Intriguing Article List**
 1. [**The Gervais Principle, Or The Office According to “The Office".**](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
 
+------------------------
+### **Reading List**
+1. Atlas Shrugged and The Fountainhead by Ayn Rand.
+2. Ego is the Enemy by Ryan Holiday.
+3. Competitive Strategy by Michael E. Porter.
+4. Contemporary Strategy Analysis by Robert M. Grant.
+------------------------
+### **To Do List**
+1. Complete CB Competitive Programming Lectures.
+2. Complete CB Dynamic Programming Lectures.
+3. Work on generating layouts for analog designs using ALIGN & with OSU180 PDK.
+4. Compete in Codeforces Live Contests ASAP.
+5. Preparation.
+6. How to work for "OpenRoad" Development? (Routing/STA Engine).
+
+------------------------
+### **Much Later**
+1. Know about some analog designs from Shreyl.
+2. Know about PLL design.
+3. Python for Quant Finance Lecture on Udemy.
+
+
 
