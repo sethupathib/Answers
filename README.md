@@ -36,6 +36,6 @@ You can find my resume [**here**](https://github.com/sethupathib/resume/blob/mas
 ------------------------
 
 ### **Intriguing Article List**
-1. [**The Gervais Principle, Or The Office According to “The Office**](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
+1. [**The Gervais Principle, Or The Office According to “The Office"**](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
 
 
