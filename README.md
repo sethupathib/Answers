@@ -27,11 +27,11 @@ You can find my resume [**here**](https://github.com/sethupathib/resume/blob/mas
 4. [**Investment Banking.**](https://www.quora.com/I-am-an-undergrad-at-BITS-Pilani-interested-in-investment-banking-What-are-some-of-the-courses-or-reading-material-I-could-go-through/answer/Sethupathi-Balakrishnan-%E0%A4%B8%E0%A5%87%E0%A4%A4%E0%A5%81%E0%A4%AA%E0%A4%A4%E0%A4%BF-%E0%A4%AC%E0%A4%BE%E0%A4%B2%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A4%A8?ch=2&srid=O1GE )
 5. [**STL.**](https://www.quora.com/What-are-the-best-video-lecturers-to-learn-STL-algorithms-in-C/answer/Sethupathi-Balakrishnan-%E0%A4%B8%E0%A5%87%E0%A4%A4%E0%A5%81%E0%A4%AA%E0%A4%A4%E0%A4%BF-%E0%A4%AC%E0%A4%BE%E0%A4%B2%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A4%A8?ch=2&srid=O1GE )
 ### [**Design**](https://www.behance.net) portfolio 
-[**Sethupathi Balakrishnan on Behance**](https://www.behance.net/bsethupathi/projects)
+[**Sethupathi Balakrishnan on Behance.**](https://www.behance.net/bsethupathi/projects)
 ### [**Linkedin**](https://www.linkedin.com) Profile
-[**Sethupathi Balakrishnan on LinkedIn**](https://www.linkedin.com/in/sethupathi-balakrishnan-4a528767/)
+[**Sethupathi Balakrishnan on LinkedIn.**](https://www.linkedin.com/in/sethupathi-balakrishnan-4a528767/)
 ### [**Twitter**](https://twitter.com) Handle
-[**Sethupathi Balakrishnan on Twitter**](https://twitter.com/bsethupathi)
+[**Sethupathi Balakrishnan on Twitter.**](https://twitter.com/bsethupathi)
 
 ------------------------
 
