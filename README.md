@@ -36,6 +36,8 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 
 ### **Intriguing Article List**
 1. [**The Gervais Principle, Or The Office According to “The Office".**](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
+2. [**A graphical introduction to dynamic programming.**](https://medium.com/@avik.das/a-graphical-introduction-to-dynamic-programming-2e981fa7ca2)
+3. [**Dynamic Programming vs Divide-and-Conquer**](https://itnext.io/dynamic-programming-vs-divide-and-conquer-2fea680becbe)
 
 ------------------------
 ### **Reading List**
