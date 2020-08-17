@@ -39,6 +39,7 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 2. [**A graphical introduction to dynamic programming.**](https://medium.com/@avik.das/a-graphical-introduction-to-dynamic-programming-2e981fa7ca2)
 3. [**Dynamic Programming vs Divide-and-Conquer.**](https://itnext.io/dynamic-programming-vs-divide-and-conquer-2fea680becbe)
 4. [**Graph Algorithms for Memristive Memory Processing Unit.**](https://vlsi.eelabs.technion.ac.il/projects/graph-algorithms-for-memristive-memory-processing-unit/)
+5. [**Divide and Conquer.**](https://skerritt.blog/divide-and-conquer-algorithms/)
 
 ------------------------
 ### **Reading List**
@@ -58,7 +59,7 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 7. Learning Shell Scripting.
 8. Write on Medium about "PG: When to pursue".
 9. Write about "VLSI CAD Competitions".
-10. 
+
 
 ------------------------
 ### **Much Later**
