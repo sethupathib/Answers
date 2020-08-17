@@ -47,6 +47,8 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 2. Ego is the Enemy by Ryan Holiday.
 3. Competitive Strategy by Michael E. Porter.
 4. Contemporary Strategy Analysis by Robert M. Grant.
+5. [**Algorithms Notes For Professionals**](https://github.com/sethupathib/data_structures/blob/master/AlgorithmsNotesForProfessionals.pdf)
+6. [**algorithms.wtf**](http://jeffe.cs.illinois.edu/teaching/algorithms/#book)
 ------------------------
 ### **To Do List**
 0. **Progress Tracking!**
