@@ -10,7 +10,7 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 4. [**Observations from my favourite TV Show “SUITS.”**](https://medium.com/@sethupathibalakrishnan/learnings-from-my-favourite-tv-show-suits-e19333f25628)
 4. [**Clock Tree Synthesis.**](https://medium.com/@sethupathibalakrishnan/clock-tree-synthesis-c108f9ea0760)
 4. [**Algorithmic Problems & their applications in S/W development.**](https://medium.com/@sethupathibalakrishnan/algorithmic-problems-their-applications-in-s-w-development-afeef6206609)
-5. [**VLSI-CAD Research Competitions**](https://medium.com/@sethupathibalakrishnan/vlsi-cad-research-competitions-6a318a1d3ef3)
+5. [**VLSI-CAD Research Competitions.**](https://medium.com/@sethupathibalakrishnan/vlsi-cad-research-competitions-6a318a1d3ef3)
 
 
 ### [**CareerHigh**](https://careerhigh.in) articles
