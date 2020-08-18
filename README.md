@@ -66,7 +66,7 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 
 ------------------------
 ### **Much Later**
-1. Know about some analog designs from Shreyl.
+1. Know about some analog designs from Sheryl.
 2. Know about PLL design.
 3. Python for Quant Finance Lecture on Udemy.
 4. JEE Math Lectures.
