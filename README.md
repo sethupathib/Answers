@@ -61,7 +61,7 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 6. How to work for "OpenRoad" Development? (Routing/STA Engine).
 7. Learning Shell Scripting.
 8. Write on Medium about "PG: When to pursue".
-9. Write about "VLSI CAD Competitions".
+9. Design Pitch to Nivruti Rai.
 
 
 ------------------------
