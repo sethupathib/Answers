@@ -42,6 +42,7 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 3. [**Dynamic Programming vs Divide-and-Conquer.**](https://itnext.io/dynamic-programming-vs-divide-and-conquer-2fea680becbe)
 4. [**Graph Algorithms for Memristive Memory Processing Unit.**](https://vlsi.eelabs.technion.ac.il/projects/graph-algorithms-for-memristive-memory-processing-unit/)
 5. [**Divide and Conquer.**](https://skerritt.blog/divide-and-conquer-algorithms/)
+6. [**ICPC**](https://comscigate.com/Books/contests/icpc.pdf)
 
 ------------------------
 ### **Reading List**
