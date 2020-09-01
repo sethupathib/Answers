@@ -61,7 +61,7 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 4. Compete in Codeforces Live Contests ASAP (Difficult but I have to do). 
 5. Preparation. (Urgent)
 6. How to work for "OpenRoad" Development? (Routing/STA Engine).
-7. Shell Scripting [this](https://www.youtube.com/playlist?list=PL2qzCKTbjutJRM7K_hhNyvf8sfGCLklXw) and [this](https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_). 
+7. Shell Scripting [this](https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_). 
 8. Write on Medium about "PG: When to pursue".
 9. Design Pitch to Nivruti Rai.
 
