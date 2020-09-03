@@ -55,15 +55,15 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 ------------------------
 ### **To Do List**
 0. **Progress Tracking!**
-1. Complete CB Competitive Programming Lectures & [**Graph Theory.**](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh)
+1. Complete CB Competitive Programming Lectures & [**Graph Theory.**](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh) (Going on)
 2. Complete CB Dynamic Programming Lectures.
 3. Work on generating layouts for analog designs using ALIGN & with OSU180 PDK. (Urgent)
 4. Compete in Codeforces Live Contests ASAP (Difficult but I have to do). 
-5. Preparation. (Urgent)
+5. Preparation. (Urgent) (Going on)
 6. How to work for "OpenRoad" Development? (Routing/STA Engine).
 7. Shell Scripting [this](https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_). 
 8. Write on Medium about "PG: When to pursue".
-9. Design Pitch to Nivruti Rai.
+
 
 
 ------------------------
@@ -90,4 +90,5 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 1. Getting up early.
 2. Spending less time on "Youtube Surfing".
 3. Focussing on the present i.e giving all in.
+4. Eating Healthy.
 
