@@ -67,6 +67,7 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 7. Shell Scripting [this](https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_). 
 8. Write on Medium about "PG: When to pursue".
 9. [CP Template](https://pastebin.com/jVURaNCJ)
+10. Compete in CodeForces Div 3 Contest ASAP.
 
 ------------------------
 ### **Observations**
