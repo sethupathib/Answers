@@ -94,7 +94,7 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 5. [**Cases Over Coffee.**](https://casesovercoffee.com)
 6. [**Consulting Interview Prep.**](https://www.youtube.com/user/MConsultingPrep/playlists)
 7. [**Consult Case Prep.**](https://www.youtube.com/user/firmsconsulting/playlists)
-8. [**The Younger Me Project.**](https://www.youtube.com/channel/UC7xmSTfYgi2eqIV_ABw-eXg)
+8. [**The Younger Me Project.**](https://www.youtube.com/channel/UC7xmSTfYgi2eqIV_ABw-eXg) (Done with Aviral Bhatnagar's Session. He was saying everything that I belived in. Felt Happy)
 9. GRE/CAT practice.
 10. PhD Ideas.
 11. Signals and Systems (FFT comes here. Also comes in Competitive Programming.)
