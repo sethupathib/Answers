@@ -65,7 +65,9 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 8. Write on Medium about "PG: When to pursue".
 9. [CP Template](https://pastebin.com/jVURaNCJ)
 
-
+------------------------
+### **Observations**
+1. Computer Science not only teaches you tech, it teaches you life.
 
 ------------------------
 ### **Much Later**
