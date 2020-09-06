@@ -68,6 +68,9 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 ------------------------
 ### **Observations**
 1. Computer Science not only teaches you tech, it teaches you life.
+2. The Universe is extremely non-linear. (80/20 Principle).
+3. Entrance Coaching not only prepares for exams but hardens you. It improves your rigour in the subject matter.
+4. Everybody runs after money, but nobody acknowledges it.
 
 ------------------------
 ### **Much Later**
