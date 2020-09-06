@@ -43,6 +43,9 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 4. [**Graph Algorithms for Memristive Memory Processing Unit.**](https://vlsi.eelabs.technion.ac.il/projects/graph-algorithms-for-memristive-memory-processing-unit/)
 5. [**Divide and Conquer.**](https://skerritt.blog/divide-and-conquer-algorithms/)
 6. [**ICPC**](https://comscigate.com/Books/contests/icpc.pdf)
+7. Synopsys Prime-Time User Guide (Probably the best technical document that I have read in my entire life)
+8. VLSI Physical Design : From Graph Partitioning to Timing Closure (ABK) (Another extremely intense and hard reference book to read).
+9. Static Timing Analysis for Nanometer Designs (J Bhasker) (A reference book to get started with STA. Doesn't contain advanced topics).
 
 ------------------------
 ### **Reading List**
@@ -91,6 +94,7 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 8. [**The Younger Me Project.**](https://www.youtube.com/channel/UC7xmSTfYgi2eqIV_ABw-eXg)
 9. GRE/CAT practice.
 10. PhD Ideas.
+11. Signals and Systems (FFT comes here. Also comes in Competitive Programming.)
 ------------------------
 ### **Hacks**
 1. Getting up early.
