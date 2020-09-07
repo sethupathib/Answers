@@ -85,6 +85,8 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 3. Python for Quant Finance Lecture on Udemy.
 4. [**JEE Math Lectures**](https://docs.google.com/spreadsheets/d/e/2PACX-1vQUwyeyCbReMBmABf-Q-XqG40oB5KrDQoUlLMpDZhBu18YasgWI72pAyH4beYolw95ylxQJdPqSWcig/pubhtml#).
 5. [**Habits**](https://www.habitstrong.com/)
+6. Policy Based Data Structures
+7. Template for Competitive Programming from Coding Blocks.
 -----------------------
 ### **Much Much Later (Probably after 1 year)**
 1. Design related ideas. Interior Design. Design of Machines. Design in General.
