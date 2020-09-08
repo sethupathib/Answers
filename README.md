@@ -83,7 +83,7 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 1. Know about some analog designs from Sheryl.
 2. Know about PLL design.
 3. Python for Quant Finance Lecture on Udemy.
-4. [**JEE Math Lectures**](https://docs.google.com/spreadsheets/d/e/2PACX-1vQUwyeyCbReMBmABf-Q-XqG40oB5KrDQoUlLMpDZhBu18YasgWI72pAyH4beYolw95ylxQJdPqSWcig/pubhtml#).
+4. [**JEE Math Lectures**](https://docs.google.com/spreadsheets/d/e/2PACX-1vQUwyeyCbReMBmABf-Q-XqG40oB5KrDQoUlLMpDZhBu18YasgWI72pAyH4beYolw95ylxQJdPqSWcig/pubhtml#) & [**Vedantu Math Lectures**](https://www.youtube.com/c/VedantuMath/playlists) & Some IMO problems.
 5. [**Habits**](https://www.habitstrong.com/)
 6. Policy Based Data Structures
 7. Template for Competitive Programming from Coding Blocks.
