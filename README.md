@@ -57,7 +57,6 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 6. [**algorithms.wtf**](http://jeffe.cs.illinois.edu/teaching/algorithms/#book)
 ------------------------
 ### **To Do List**
-0. **Progress Tracking!**
 1. Complete CB Competitive Programming Lectures & [**Graph Theory.**](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh) (Going on)
 2. Complete CB Dynamic Programming Lectures.
 3. Work on generating layouts for analog designs using ALIGN & with OSU180 PDK. (Urgent)
@@ -69,6 +68,10 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 9. [CP Template](https://pastebin.com/jVURaNCJ)
 10. Compete in CodeForces Div 3 Contest ASAP.
 
+------------------------
+### **Progress Tracking**
+1. Bit Masking (Completed).
+2. Math (Big Integers) (Going On).
 ------------------------
 ### **Observations**
 1. Computer Science not only teaches you tech, it teaches you life.
