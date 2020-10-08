@@ -71,7 +71,7 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 8. Write on Medium about "PG: When to pursue".
 9. [CP Template](https://pastebin.com/jVURaNCJ)
 10. Compete in CodeForces Div 3 Contest ASAP.
-11. [**ITMO CP course**](https://codeforces.com/edu/course/2/lesson/2)
+11. [**ITMO CP course**](https://codeforces.com/edu/course/2/lesson/2) (Probably the best free competitive programming course on the planet. Pashka is just phenomenal )
 
 ------------------------
 ### **Progress Tracking**
