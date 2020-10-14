@@ -85,7 +85,7 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 9. [CP Template](https://pastebin.com/jVURaNCJ)
 10. Compete in CodeForces Div 3 Contest ASAP.
 11. [**ITMO CP course**](https://codeforces.com/edu/course/2/lesson/2) (Probably the best free competitive programming course on the planet. Pashka is just phenomenal )
-
+12. [**Coursera VLSI CAD Course**](https://www.coursera.org/learn/vlsi-cad-layout/supplement/Ytgkc/week-1-overview) (I figured this out recently. This is the best VLSI CAD course out there that is available for free. Man, these guys have Placement and Routing Visualisers etc. It's always been my dream to do work at this level.)
 ------------------------
 ### **Progress Tracking**
 1. Bit Masking (Completed).
