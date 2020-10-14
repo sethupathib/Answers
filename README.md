@@ -24,7 +24,7 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 2. [**CP Practice.**](https://github.com/sethupathib/cp-practice)
 
 ### [**CodeForces**](https://codeforces.com) account
-[**Sethupathi on CodeForces**](https://codeforces.com/profile/b.sethupathi) -- Still a noob at this.
+[**Sethupathi on CodeForces**](https://codeforces.com/profile/b.sethupathi) -- Still a noob at this :P.
 
 ### [**Binary Search**](https://binarysearch.com) account
 [**Sethupathi on Binary Search**](https://binarysearch.com/@/sethupathi?tab=progress)
