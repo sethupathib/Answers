@@ -19,6 +19,10 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 1. [**Static Timing Analysis Roadmap.**](https://careerhigh.in/Electronics-and-Communication-Engineering/Static-Timing-Analysis-Roadmap)
 2. [**CAD Tools Development for VLSI Roadmap.**](https://careerhigh.in/Electronics-and-Communication-Engineering/CAD-Tools-Development-for-VLSI-Roadmap)
 
+### **Problem Solving**
+1. [**Data Structures & Algorithms.**](https://github.com/sethupathib/data_structures)
+2. [**CP Practice.**](https://github.com/sethupathib/cp-practice)
+
 ### [**Binary Search**](https://binarysearch.com) account
 [**Sethupathi on Binary Search**](https://binarysearch.com/@/sethupathi?tab=progress)
 
