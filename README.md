@@ -19,6 +19,9 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 1. [**Static Timing Analysis Roadmap.**](https://careerhigh.in/Electronics-and-Communication-Engineering/Static-Timing-Analysis-Roadmap)
 2. [**CAD Tools Development for VLSI Roadmap.**](https://careerhigh.in/Electronics-and-Communication-Engineering/CAD-Tools-Development-for-VLSI-Roadmap)
 
+### [**Binary Search**](https://binarysearch.com) account
+[**Sethupathi on Binary Search**](https://binarysearch.com/@/sethupathi?tab=progress)
+
 ### [**CodeZen**](https://codezen.codingninjas.com/?_ga=2.138767667.1824624368.1597571625-2043193814.1597571625) account
 [**Sethupathi on CodeZen**](https://codezen.codingninjas.com/dashboard?_ga=2.138767667.1824624368.1597571625-2043193814.1597571625)
 
