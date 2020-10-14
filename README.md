@@ -23,8 +23,14 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 1. [**Data Structures & Algorithms.**](https://github.com/sethupathib/data_structures)
 2. [**CP Practice.**](https://github.com/sethupathib/cp-practice)
 
+### [**CodeForces**](https://codeforces.com) account
+[**Sethupathi on CodeForces**](https://codeforces.com/profile/b.sethupathi) -- Still a noob at this.
+
 ### [**Binary Search**](https://binarysearch.com) account
 [**Sethupathi on Binary Search**](https://binarysearch.com/@/sethupathi?tab=progress)
+
+### [**Leet Code**](https://leetcode.com) account
+[**Sethupathi on LeetCode**](https://leetcode.com/submissions/#/1)
 
 ### [**CodeZen**](https://codezen.codingninjas.com/?_ga=2.138767667.1824624368.1597571625-2043193814.1597571625) account
 [**Sethupathi on CodeZen**](https://codezen.codingninjas.com/dashboard?_ga=2.138767667.1824624368.1597571625-2043193814.1597571625)
