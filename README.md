@@ -94,6 +94,8 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 ### **Progress Tracking**
 1. Bit Masking (Completed).
 2. Math (Big Integers) (Going On).
+3. I am unable to design a placement engine despite doing a complete course on it. I will have to investigate further. I need some help here from CAD researchers/CS Engineers.
+4. VLSI CAD Course. I've got about 7-8 more lectures left.
 ------------------------
 ### **Observations**
 1. Computer Science not only teaches you tech, it teaches you life.
