@@ -1,6 +1,8 @@
 # Answers
 This readme will have links to my Quora Answers, Medium, CareerHigh articles. Also has my codezen and behance profiles.
 
+**This repository has been used by researchers from "ETH-Zurich" for their research on "open-source license."**
+
 ### [**medium.com**](https://medium.com/@sethupathibalakrishnan) articles
 1. [**My Experiences on Anything and Everything in Life.**](https://medium.com/@sethupathibalakrishnan/my-experiences-on-anything-and-everything-in-life-231eb4699609)
 2. [**Custom Macro Placement.**](https://medium.com/@sethupathibalakrishnan/custom-macro-placement-cd63043103b9)
