@@ -18,8 +18,8 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 
 
 ### [**CareerHigh**](https://careerhigh.in) articles
-1. [**Static Timing Analysis Roadmap.**](https://careerhigh.in/Electronics-and-Communication-Engineering/Static-Timing-Analysis-Roadmap)
-2. [**CAD Tools Development for VLSI Roadmap.**](https://careerhigh.in/Electronics-and-Communication-Engineering/CAD-Tools-Development-for-VLSI-Roadmap)
+1. [**Static Timing Analysis Roadmap.**](https://careerhigh.in/post/Static-Timing-Analysis-Roadmap)
+2. [**CAD Tools Development for VLSI Roadmap.**](https://careerhigh.in/post/CAD-Tools-Development-for-VLSI-Roadmap)
 
 ### **Problem Solving**
 1. [**Data Structures & Algorithms.**](https://github.com/sethupathib/data_structures)
