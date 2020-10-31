@@ -88,6 +88,8 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 10. Compete in CodeForces Div 3 Contest ASAP.
 11. [**ITMO CP course**](https://codeforces.com/edu/course/2/lesson/2) (Probably the best free competitive programming course on the planet. Pashka is just phenomenal )
 12. [**Coursera VLSI CAD Course**](https://www.coursera.org/learn/vlsi-cad-layout/supplement/Ytgkc/week-1-overview) (I figured this out recently. This is the best VLSI CAD course out there that is available for free. Man, these guys have Placement and Routing Visualisers etc. It's always been my dream to do work at this level.)
+13. A project on Routing and Timing. (Tool Design and Development).
+14. Solving problems on Binary Search. (It's very rewarding. I got to know a lot of concepts by solving problems).
 ------------------------
 ### **Progress Tracking**
 1. Bit Masking (Completed).
@@ -100,6 +102,9 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 4. Everybody runs after money, but nobody acknowledges it.
 5. If you don't ask, the answer is always "No".
 6. "20's" is all about figuring out what you want to do for the rest of your life.
+7. Physical Design (Specifically P&R has little to no math required. All the math is present in PDN, STA, EDA, Analog Design, Memory Design, Architecture R&D). Also, people seem to solve **Bounded** problems in Physical Design.
+8. ABK believes that performing experimental investigations is much more important than Algorithms. As a guy from a Pure Math & CS background, he can say that. I have not quite explored Algorithms area yet. I believe that EDA has more precedence and is tougher when compared to Physical Design. I found some really smart people who are in EDA.
+
 
 ------------------------
 ### **Much Later**
