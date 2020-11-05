@@ -30,6 +30,7 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 
 ### [**Binary Search**](https://binarysearch.com) account
 [**Sethupathi on Binary Search**](https://binarysearch.com/@/sethupathi?tab=progress)
+This is an excellent platform that is similar to LeetCode. I have learnt immensely from this.
 
 ### [**Leet Code**](https://leetcode.com) account
 [**Sethupathi on LeetCode**](https://leetcode.com/submissions/#/1)
