@@ -64,6 +64,8 @@ This is an excellent platform that is similar to LeetCode. I have learnt immense
 9. Static Timing Analysis for Nanometer Designs (J Bhasker) (A reference book to get started with STA. Doesn't contain advanced topics).
 10. [**ISPD Detailed Routing Contest**](http://www.ispd.cc/contests/18/) -- Something that I want to do in the future.
 11. [**IOI Syllabus**](https://ioinformatics.org/files/ioi-syllabus-2019.pdf)
+12. [**Quartz**](https://qz.com/india/)
+13. 
 
 ------------------------
 ### **Reading List**
@@ -111,6 +113,12 @@ Honorable Mentions --
 1. [**MIT Media Lab**](https://www.media.mit.edu)
 2. [**The Design Lab @ UCSD**](https://designlab.ucsd.edu)
 3. [**My Design Portfolio**](https://www.behance.net/bsethupathi/projects)
+4. [**Frog Design**](https://www.frogdesign.com)
+5. [**Dezeen**](https://www.dezeen.com/tag/tesla/)
+6. [**Franz von Holzhausen**](https://en.wikipedia.org/wiki/Franz_von_Holzhausen)
+7. [**IDC IIT Bombay**](http://www.idc.iitb.ac.in/index.html)
+8. [**Houzz**](https://www.houzz.com)
+9. [**Design @ Apple**](https://qz.com/580381/inside-apples-highly-secretive-design-studio/)
 ------------------------
 ### **To Do List**
 1. Complete CB Competitive Programming Lectures & [**Graph Theory.**](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh) (Going on)
