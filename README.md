@@ -45,8 +45,6 @@ This is an excellent platform that is similar to LeetCode. I have learnt immense
 3. [**Static Timing Analysis.**](https://www.quora.com/What-are-some-of-the-best-resources-to-learn-Static-Timing-Analysis-STA-of-Digital-VLSI-Designs/answer/Sethupathi-Balakrishnan-%E0%A4%B8%E0%A5%87%E0%A4%A4%E0%A5%81%E0%A4%AA%E0%A4%A4%E0%A4%BF-%E0%A4%AC%E0%A4%BE%E0%A4%B2%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A4%A8?ch=2&srid=O1GE )
 4. [**Investment Banking.**](https://www.quora.com/I-am-an-undergrad-at-BITS-Pilani-interested-in-investment-banking-What-are-some-of-the-courses-or-reading-material-I-could-go-through/answer/Sethupathi-Balakrishnan-%E0%A4%B8%E0%A5%87%E0%A4%A4%E0%A5%81%E0%A4%AA%E0%A4%A4%E0%A4%BF-%E0%A4%AC%E0%A4%BE%E0%A4%B2%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A4%A8?ch=2&srid=O1GE )
 5. [**STL.**](https://www.quora.com/What-are-the-best-video-lecturers-to-learn-STL-algorithms-in-C/answer/Sethupathi-Balakrishnan-%E0%A4%B8%E0%A5%87%E0%A4%A4%E0%A5%81%E0%A4%AA%E0%A4%A4%E0%A4%BF-%E0%A4%AC%E0%A4%BE%E0%A4%B2%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A4%A8?ch=2&srid=O1GE )
-### [**Design**](https://www.behance.net) portfolio 
-[**Sethupathi Balakrishnan on Behance.**](https://www.behance.net/bsethupathi/projects)
 ### [**Linkedin**](https://www.linkedin.com) Profile
 [**Sethupathi Balakrishnan on LinkedIn.**](https://www.linkedin.com/in/sethupathi-balakrishnan-4a528767/)
 ### [**Twitter**](https://twitter.com) Handle
@@ -108,6 +106,11 @@ Honorable Mentions --
 7. [**Prateek Narang**](http://www.prateeknarang.com)
 8. [**Kunal Ghosh**](https://www.udemy.com/user/anagha/)
 
+------------------------
+### **Design**
+1. [**MIT Media Lab**](https://www.media.mit.edu)
+2. [**The Design Lab @ UCSD**](https://designlab.ucsd.edu)
+3. [**My Design Portfolio**](https://www.behance.net/bsethupathi/projects)
 ------------------------
 ### **To Do List**
 1. Complete CB Competitive Programming Lectures & [**Graph Theory.**](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh) (Going on)
