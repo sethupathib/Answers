@@ -186,4 +186,12 @@ Honorable Mentions --
 2. Spending less time on "Youtube Surfing".
 3. Focussing on the present i.e giving all in.
 4. Eating Healthy.
-
+------------------------
+### **Mistakes**
+0. Coming to Kudankulam + Not being serious about KVPY/NTSE/IMO etc. (Never ever prepared for it. Regret it to this date).
+1. Not taking a drop year for JEE. (The regret of not going to JEE coaching is more than the regret of going to JEE coaching and not qualifying. (Just my personal opinion)).
+2. Taking up Electrical Engineering. (AC/DC Machines, Power Systems, Power Electronics are of zero value to me).
+3. Not taking enough risks at a early stage of life.
+4. Not taking up CS/Coding early on. (Due to lack of resources/awareness).
+5. Spending too much time on TV Shows during undergrad.
+6. Not being well aware/informed during post grad.
