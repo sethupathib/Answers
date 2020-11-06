@@ -76,6 +76,36 @@ This is an excellent platform that is similar to LeetCode. I have learnt immense
 5. [**Algorithms Notes For Professionals**](https://github.com/sethupathib/data_structures/blob/master/AlgorithmsNotesForProfessionals.pdf)
 6. [**algorithms.wtf**](http://jeffe.cs.illinois.edu/teaching/algorithms/#book)
 ------------------------
+### **Super Hero List**
+This is a list of people whom I admire the most and look up to.
+
+0. [**Andrew NG**](https://www.andrewng.org)  
+[**Alberto Sangiovanni Vincentelli**](https://scholar.google.com/citations?user=AhgjQ2QAAAAJ&hl=en)
+1. [**ABK**](https://vlsicad.ucsd.edu)
+2. [**Huang-Yu Chen aka Yellow Fish**](http://eda.ee.ntu.edu.tw/~yellowfish/)
+3. [**Yao-Wen Chang**](http://cc.ee.ntu.edu.tw/~ywchang/)
+4. [**Terrence Tao**](https://www.math.ucla.edu/~tao/)
+5. [**Natalia Komarova**](https://www.math.uci.edu/~komarova/)
+6. [**Ajith Diwan**](https://www.cse.iitb.ac.in/~aad/)
+7. [**Rob Rutenbar**](https://www.rutenbar.pitt.edu)
+8. [**Jan Rabaey**](https://www2.eecs.berkeley.edu/Faculty/Homepages/rabaey.html)
+9. [**Ray Dalio**](https://www.principles.com)
+10. [**Don Norman**](https://jnd.org) -- Design Lord
+11. [**Jony Ive**](https://en.wikipedia.org/wiki/Jony_Ive)
+12. [**Tom Spyrou**](https://www.linkedin.com/in/tomspyrou/) 
+13. [**Elon Musk**](https://en.wikipedia.org/wiki/Elon_Musk) 
+14. [**Errichto**](https://codeforces.com/profile/Errichto)
+15. [**Pashka**](https://codeforces.com/profile/pashka)
+
+Honorable Mentions --
+1. [**Tsung-Yi Ho**](http://www.cs.nthu.edu.tw/~tyho/)
+2. [**Iris Hui-Ru Jiang**](http://www.ee.ntu.edu.tw/profile1.php?id=1060726)
+3. [**Indra RajaSingh**](https://scholar.google.com/citations?user=gv1H3eUAAAAJ&hl=en)
+4. [**Kamakoti**](https://www.cse.iitm.ac.in/profile.php?arg=MTg=)
+5. [**Thens**](https://patents.justia.com/inventor/thenappan-meyyappan)
+6. [**Naveen Garg**](https://scholar.google.com/citations?user=wNRE148AAAAJ&hl=en)
+
+------------------------
 ### **To Do List**
 1. Complete CB Competitive Programming Lectures & [**Graph Theory.**](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh) (Going on)
 2. Complete CB Dynamic Programming Lectures.
@@ -96,7 +126,8 @@ This is an excellent platform that is similar to LeetCode. I have learnt immense
 1. Bit Masking (Completed).
 2. Math (Big Integers) (Going On).
 3. I am unable to design a placement engine despite doing a complete course on it. I will have to investigate further. I need some help here from CAD researchers/CS Engineers.
-4. VLSI CAD Course. I've got about 7-8 more lectures left.
+4. VLSI CAD Course. (Completed)
+5. Linked List Coding Problems on Binary Search. (Going On).
 ------------------------
 ### **Observations**
 1. Computer Science not only teaches you tech, it teaches you life.
