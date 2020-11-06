@@ -88,7 +88,8 @@ This is a list of people whom I admire the most and look up to.
 5. [**Natalia Komarova**](https://www.math.uci.edu/~komarova/)
 6. [**Ajith Diwan**](https://www.cse.iitb.ac.in/~aad/)
 7. [**Rob Rutenbar**](https://www.rutenbar.pitt.edu)
-8. [**Jan Rabaey**](https://www2.eecs.berkeley.edu/Faculty/Homepages/rabaey.html)
+8. [**Jan Rabaey**](https://www2.eecs.berkeley.edu/Faculty/Homepages/rabaey.html) &
+[**Neil Weste**](https://scholar.google.com/citations?user=o-hbO8cAAAAJ&hl=en)
 9. [**Ray Dalio**](https://www.principles.com)
 10. [**Don Norman**](https://jnd.org) -- Design Lord
 11. [**Jony Ive**](https://en.wikipedia.org/wiki/Jony_Ive)
