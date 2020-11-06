@@ -105,6 +105,7 @@ Honorable Mentions --
 4. [**Kamakoti**](https://www.cse.iitm.ac.in/profile.php?arg=MTg=)
 5. [**Thens**](https://patents.justia.com/inventor/thenappan-meyyappan)
 6. [**Naveen Garg**](https://scholar.google.com/citations?user=wNRE148AAAAJ&hl=en)
+7. [**Prateek Narang**](http://www.prateeknarang.com)
 
 ------------------------
 ### **To Do List**
@@ -139,6 +140,8 @@ Honorable Mentions --
 6. "20's" is all about figuring out what you want to do for the rest of your life.
 7. Physical Design (Specifically P&R has little to no math required. All the math is present in PDN, STA, EDA, Analog Design, Memory Design, Architecture R&D). Also, people seem to solve **Bounded** problems in Physical Design.
 8. ABK believes that performing experimental investigations is much more important than Algorithms. As a guy from a Pure Math & CS background, he can say that. I have not quite explored Algorithms area yet. I believe that EDA has more precedence and is tougher when compared to Physical Design. I found some really smart people who are in EDA.
+9. The best and the most optimal way to approach EDA is through the Pure Math and Computer Science route rather than the Electrical Engineering Route. Eg. ABK, Thens etc.
+
 
 
 ------------------------
