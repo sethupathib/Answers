@@ -106,6 +106,7 @@ Honorable Mentions --
 5. [**Thens**](https://patents.justia.com/inventor/thenappan-meyyappan)
 6. [**Naveen Garg**](https://scholar.google.com/citations?user=wNRE148AAAAJ&hl=en)
 7. [**Prateek Narang**](http://www.prateeknarang.com)
+8. [**Kunal Ghosh**](https://www.udemy.com/user/anagha/)
 
 ------------------------
 ### **To Do List**
