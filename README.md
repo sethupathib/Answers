@@ -220,6 +220,7 @@ Similarly, at work, I got the toughest team. GPU Team.
 
 ------------------------
 ### **Highlights**
+0. **Interview with TSMC HQ**.
 1. VIT VLSI & Interacting with the B.Tech CS Grads from VIT.
 2. Trip to Thailand during first year of work.
 3. 2 Tape-outs from Qualcomm (GPU Implementation)
