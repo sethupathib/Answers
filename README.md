@@ -59,9 +59,9 @@ This is an excellent platform that is similar to LeetCode. I have learnt immense
 4. [**Graph Algorithms for Memristive Memory Processing Unit.**](https://vlsi.eelabs.technion.ac.il/projects/graph-algorithms-for-memristive-memory-processing-unit/)
 5. [**Divide and Conquer.**](https://skerritt.blog/divide-and-conquer-algorithms/)
 6. [**ICPC**](https://comscigate.com/Books/contests/icpc.pdf)
-7. Synopsys Prime-Time User Guide (Probably the best technical document that I have read in my entire life)
-8. VLSI Physical Design : From Graph Partitioning to Timing Closure (ABK) (Another extremely intense and hard reference book to read).
-9. Static Timing Analysis for Nanometer Designs (J Bhasker) (A reference book to get started with STA. Doesn't contain advanced topics).
+7. **Synopsys Prime-Time User Guide** (Probably the best technical document that I have read in my entire life)
+8. **VLSI Physical Design : From Graph Partitioning to Timing Closure (ABK)** (Another extremely intense and hard reference book to read).
+9. **Static Timing Analysis for Nanometer Designs (J Bhasker)** (A reference book to get started with STA. Doesn't contain advanced topics).
 10. [**ISPD Detailed Routing Contest**](http://www.ispd.cc/contests/18/) -- Something that I want to do in the future.
 11. [**IOI Syllabus**](https://ioinformatics.org/files/ioi-syllabus-2019.pdf)
 12. [**Quartz**](https://qz.com/india/)
