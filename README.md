@@ -158,6 +158,9 @@ Honorable Mentions --
 7. Physical Design (Specifically P&R has little to no math required. All the math is present in PDN, STA, EDA, Analog Design, Memory Design, Architecture R&D). Also, people seem to solve **Bounded** problems in Physical Design.
 8. ABK believes that performing experimental investigations is much more important than Algorithms. As a guy from a Pure Math & CS background, he can say that. I have not quite explored Algorithms area yet. I believe that EDA has more precedence and is tougher when compared to Physical Design. I found some really smart people who are in EDA.
 9. The best and the most optimal way to approach EDA is through the Pure Math and Computer Science route rather than the Electrical Engineering Route. Eg. ABK, Thens etc.
+10. I somehow have a feeling that **I** have enough know-how/knowledge as someone who is a 3rd Yr. PhD from UCSD.
+11. What Prastut does make a lot of sense. There is no definition for speed. i.e how fast you ought to go. B.Tech can be completed under 4 years. We end up wasting a lot of time. That is a different story.
+12. In the end, you ought to do hard things. Only then, you're learning will be non-linear aka exponential. 
 
 
 
