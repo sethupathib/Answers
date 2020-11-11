@@ -124,6 +124,13 @@ Honorable Mentions --
 10. [**Kiana Bespoke**](https://www.kianainvitations.com)
 11. [**Prastut Kumar**](https://www.behance.net/prastutkumar)
 ------------------------
+### **Future**
+1. **ISPD Contest**.
+2. **ICCAD Contest**.
+3. **Tau Contest**.
+4. **DAC Contest**.
+5. **CodeForces Graph Challenge + IOI Problems**
+------------------------
 ### **To Do List**
 1. Complete CB Competitive Programming Lectures & [**Graph Theory.**](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh) (Going on)
 2. Complete CB Dynamic Programming Lectures.
@@ -202,3 +209,19 @@ Honorable Mentions --
 4. Not taking up CS/Coding early on. (Due to lack of resources/awareness).
 5. Spending too much time on TV Shows during undergrad.
 6. Not being well aware/informed during post grad.
+
+------------------------
+### **Highlights**
+1. VIT VLSI & Interacting with the B.Tech CS Grads from VIT.
+2. Trip to Thailand during first year of work.
+3. 2 Tape-outs from Qualcomm (GPU Implementation)
+4. Design Internship at **The Minimalist**. (Didn't pursue)
+5. CS Internship at **IIT Madras**. (Didn't pursue)
+6. Interview with Marvell (went till final round).
+7. Internship with VSD (Kunal Ghosh). (Euler Path Generation for Digital Circuits)
+8. **ETH Zurich** researchers taking this repository for their research.
+9. Cracking **IIIT-Hyderabad** PGEE.
+10. Working with Nishant Mishra (BCG) on Teacher Transfer Portal Review Project.
+11. Wrote a lot of Quora and Medium Articles. (If that counts!).
+
+
