@@ -125,7 +125,8 @@ Honorable Mentions --
 11. [**Prastut Kumar**](https://www.behance.net/prastutkumar)
 ------------------------
 ### **Future**
-A long long way to go. I want to be with the best of the best people in the world.
+A long long way to go. I want to be with the best of the best people in the world. 
+
 1. **ISPD Contest**.
 2. **ICCAD Contest**.
 3. **Tau Contest**.
@@ -133,6 +134,7 @@ A long long way to go. I want to be with the best of the best people in the worl
 5. **CodeForces Graph Challenge**.
 6. **IOI Problems**.
 7. **ACM ICPC**.
+8. **Putnam Competition Problems + IMO Problems**
 
 ------------------------
 ### **To Do List**
