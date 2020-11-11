@@ -161,7 +161,7 @@ Honorable Mentions --
 10. I somehow have a feeling that **I** have enough know-how/knowledge as someone who is a 3rd Yr. PhD from UCSD.
 11. What Prastut does make a lot of sense. There is no definition for speed. i.e how fast you ought to go. B.Tech can be completed under 4 years. We end up wasting a lot of time. That is a different story.
 12. In the end, you ought to do hard things. Only then, you're learning will be non-linear aka exponential. 
-13. **EDA > Design** (In terms of difficulty. That explains the less no. of people in EDA). But **Design> EDA** in terms of money. Design Industry is much larger than EDA. However, People can switch from EDA to S/W easily and there is no comparison when it comes the Software Industry.
+13. **[EDA > Design]** (In terms of difficulty. That explains the less no. of people in EDA). But **[Design > EDA]** in terms of money. Design Industry is much larger than EDA. However, People can switch from EDA to S/W easily and there is no comparison when it comes the Software Industry.
 
 
 
