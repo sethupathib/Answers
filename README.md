@@ -130,9 +130,9 @@ A long long way to go. I want to be with the best of the best people in the worl
 2. **ICCAD Contest**.
 3. **Tau Contest**.
 4. **DAC Contest**.
-5. **CodeForces Graph Challenge **
-6. **IOI Problems**
-7. **ACM ICPC**
+5. **CodeForces Graph Challenge**.
+6. **IOI Problems**.
+7. **ACM ICPC**.
 
 ------------------------
 ### **To Do List**
