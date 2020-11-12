@@ -75,7 +75,7 @@ This is an excellent platform that is similar to LeetCode. I have learnt immense
 5. [**Algorithms Notes For Professionals**](https://github.com/sethupathib/data_structures/blob/master/AlgorithmsNotesForProfessionals.pdf)
 6. [**algorithms.wtf**](http://jeffe.cs.illinois.edu/teaching/algorithms/#book)
 7. [**Creativity Inc.**](https://www.amazon.in/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012)
-8. [**Being Steve Jobs**](https://www.amazon.in/Becoming-Steve-Jobs-Evolution-Visionary/dp/0385347421)
+8. [**Becoming Steve Jobs**](https://www.amazon.in/Becoming-Steve-Jobs-Evolution-Visionary/dp/0385347421)
 9. [**How will You Measure Your Life?**](https://www.amazon.in/How-Will-Measure-Your-Life/dp/0062102419)
 ------------------------
 ### **Super Hero List**
