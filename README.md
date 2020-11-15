@@ -4,7 +4,7 @@
 
 **"If something is important enough, you do it even if the odds are not in your favor" -- Elon Musk.**
 
-This readme will have links to my Quora Answers, Medium, CareerHigh articles. Also has my codezen and behance profiles (basically everything that I have done till date).
+This readme will have links to my Quora Answers, Medium, CareerHigh articles. Also has my coding profile and behance design portfolio (basically everything that I have done till date).
 
 ### [**medium.com**](https://medium.com/@sethupathibalakrishnan) articles
 1. [**My Experiences on Anything and Everything in Life.**](https://medium.com/@sethupathibalakrishnan/my-experiences-on-anything-and-everything-in-life-231eb4699609)
