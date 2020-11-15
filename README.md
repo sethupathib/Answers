@@ -193,6 +193,7 @@ Similarly, at work, I got the toughest team. GPU Team.
 ### **Much Much Later (Probably after 1 year)**
 1. Design related ideas. Interior Design. Design of Machines. Design in General.
     -- Learn **Blender** & **Sketchup**
+    -- Buy iPad Pro & a Digital Pen Tablet.
 2. Drawing.
 3. [**Surviving IIM-A.**](https://www.youtube.com/playlist?list=PLIO8daZRc7DcLyv5ptsJwU-aqnZc0Tznt)
 4. [**Consulting Cases**](https://www.youtube.com/playlist?list=PLIO8daZRc7Dfu0GloK0HJbU2k6v1wNoDX) & [**Example Cases.**](https://www.youtube.com/playlist?list=PLIO8daZRc7DdLTW-PK4tpQpePP3ee-TkD)
