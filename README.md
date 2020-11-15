@@ -137,6 +137,11 @@ A long long way to go. I want to be with the best of the best people in the worl
 8. **Putnam Competition Problems + IMO Problems**
 
 ------------------------
+### **Tutorial Recordings**
+1. [**ALIGN Tutorial**](https://onedrive.live.com/?cid=e0e9b5eef85b162e&id=E0E9B5EEF85B162E%2157177&sff=1&authkey=!AJkqTms52bOdZu0)
+2. [**vsdGrapExtractor Tutorial**](https://drive.google.com/file/d/1XyveSBHkiqz6ydINx6Ltfx_KQ0eiyJ86/view?usp=sharing)
+3. [**VIT VLSI CAD Assignment**](https://www.youtube.com/watch?v=8jaK1cI43Pk) (Funny)
+------------------------
 ### **To Do List**
 1. Complete CB Competitive Programming Lectures & [**Graph Theory.**](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh) (Going on)
 2. Complete CB Dynamic Programming Lectures.
