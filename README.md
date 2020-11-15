@@ -1,5 +1,8 @@
-# Answers
+# Answers : Design, Technology and Everything in Between.
+
 **Note: This repository has been used by researchers from "ETH-Zurich" for their research on "open-source license."**
+
+**If something is important enough, you do it even if the odds are not in your favor -- Elon Musk **
 
 This readme will have links to my Quora Answers, Medium, CareerHigh articles. Also has my codezen and behance profiles (basically everything that I have done till date).
 
