@@ -242,6 +242,6 @@ Similarly, at work, I got the toughest team. GPU Team.
 9. Cracking **IIIT-Hyderabad** PGEE.
 10. Working with Nishant Mishra (BCG) on Teacher Transfer Portal Review Project.
 11. Wrote a lot of Quora and Medium Articles. (If that counts!).
-12. 29 Clones on this repository till date. (15th Nov 2020).
+12. 34 Clones on this repository till date. (15th Nov 2020).
 
 
