@@ -1,6 +1,6 @@
 # Answers : Design, Technology and Everything in Between.
 
-**Note: This repository has been used by researchers from "ETH-Zurich" for their research on "open-source license."**
+**Note: This repository has been used by researchers from "ETH-Zurich" for their research on "open-source software."**
 
 **"If something is important enough, you do it even if the odds are not in your favor" -- Elon Musk.**
 
