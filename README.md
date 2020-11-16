@@ -278,3 +278,4 @@ Similarly, at work, I got the toughest team. GPU Team.
 26. Maturity is when you don't want you don't have.
 27. If you want to live an exceptional and extraordinary life, you have to give up many of the things that are part of a normal one.
 28. You cannot overestimate the unimportance of practically everything.
+29. When you have nothing to lose, you can do anything that you want.
