@@ -251,3 +251,30 @@ Similarly, at work, I got the toughest team. GPU Team.
 ### Quote Fest
 
 1. The only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle. As with all matters of the heart, you’ll know when you find it. -- **Steve Jobs**
+2. Excuses don't win Championships -- **Harvey Specter**
+3. The moments that lead to greatness are the ones that pass when no one is watching, when no one cares and when nothing is on the line. 
+4. Most high-functioning humans are great at optimizing their free time.
+5. You can harm your future simply through inaction.
+6. Think and act, instead of think and dream.
+7. If you constantly allow others to dictate your thoughts, feelings, and circumstances, you’ll never achieve your ideal lifestyle of freedom and growth.
+8. You produce what you absorb.
+9. Positive input creates momentum.
+10. Disbelief is negative power. When the mind disbelieves or doubts, the mind attracts ‘reasons’ to support the disbelief.
+11. Once you make a decision, the universe conspires to make it happen.
+12. Winners act like winners before they become winners. That’s how they become winners.
+13. We are what we repeatedly do.
+14. Change starts with you, and more specifically, your thoughts.
+15. You attract into your life what you think. Your input determines your output.
+16. Successful people do what unsuccessful people are unwilling to do.
+17. If you keep on living the way you are now, you will continue to produce the same life you already have.
+18. Reactionary thinking is the foundation for unhappiness, dissatisfaction, and emptiness.
+19. Failing to prepare is preparing to fail.
+20. Become someone they can’t ignore.
+21. Comparison is the end of joy.  -- **Mark Twain**
+22. I never invest in anything that I don’t understand -- **Warren Buffett**
+23. Programming is thinking not typing.
+24. Do not be attached to code because of how much effort you put into it. 
+25. To avoid criticism, say nothing, do nothing, be nothing. --**Aristotle.
+26. Maturity is when you don't want you don't have.
+27. If you want to live an exceptional and extraordinary life, you have to give up many of the things that are part of a normal one.
+28. You cannot overestimate the unimportance of practically everything.
