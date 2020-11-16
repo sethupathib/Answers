@@ -280,3 +280,4 @@ Similarly, at work, I got the toughest team. GPU Team.
 28. You cannot overestimate the unimportance of practically everything.
 29. When you have nothing to lose, you can do anything that you want.
 30. The opposite of job dissatisfaction isn’t job satisfaction, but rather an absence of job dissatisfaction.
+31. You won’t get it right if you don’t commit to keep trying.
