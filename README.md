@@ -247,5 +247,8 @@ Similarly, at work, I got the toughest team. GPU Team.
 10. Working with Nishant Mishra (BCG) on Teacher Transfer Portal Review Project.
 11. Wrote a lot of Quora and Medium Articles. (If that counts!).
 12. 44 Clones on this repository till date. (16th Nov 2020). (If this matters!).
+------------------------
+### Quote Fest
 
-
+1. 
+The only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle. As with all matters of the heart, you’ll know when you find it. -- **Steve Jobs**
