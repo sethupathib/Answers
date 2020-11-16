@@ -274,7 +274,7 @@ Similarly, at work, I got the toughest team. GPU Team.
 22. I never invest in anything that I don’t understand -- **Warren Buffett**
 23. Programming is thinking not typing.
 24. Do not be attached to code because of how much effort you put into it. 
-25. To avoid criticism, say nothing, do nothing, be nothing. --**Aristotle.
+25. To avoid criticism, say nothing, do nothing, be nothing. --**Aristotle**.
 26. Maturity is when you don't want you don't have.
 27. If you want to live an exceptional and extraordinary life, you have to give up many of the things that are part of a normal one.
 28. You cannot overestimate the unimportance of practically everything.
