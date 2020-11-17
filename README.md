@@ -115,7 +115,7 @@ Honorable Mentions --
 ------------------------
 ### **VLSI/VLSI-EDA Projects**
 1. [**vsdGraphExtractor**](https://github.com/sethupathib/vsdGraphExtractor).
-2. **GPU Floorplan, Place & Route** 
+2. **GPU Floorplan, Place & Route**. 
 ------------------------
 ### **Design**
 1. [**MIT Media Lab**](https://www.media.mit.edu)
