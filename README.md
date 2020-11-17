@@ -284,3 +284,4 @@ Similarly, at work, I got the toughest team. GPU Team.
 30. The opposite of job dissatisfaction isn’t job satisfaction, but rather an absence of job dissatisfaction.
 31. You won’t get it right if you don’t commit to keep trying.
 32. If you work to understand what job you are being hired to do, both professionally and in your personal life, the payoff will be enormous. 
+33. In sacrificing for something worthwhile, you deeply strengthen your commitment to it.
