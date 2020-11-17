@@ -114,6 +114,9 @@ Honorable Mentions --
 8. [**Kunal Ghosh**](https://www.udemy.com/user/anagha/)
 
 ------------------------
+### **VLSI EDA Project (Small One)**
+1. [**vsdGraphExtractor**](https://github.com/sethupathib/vsdGraphExtractor).
+------------------------
 ### **Design**
 1. [**MIT Media Lab**](https://www.media.mit.edu)
 2. [**The Design Lab @ UCSD**](https://designlab.ucsd.edu)
