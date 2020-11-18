@@ -189,7 +189,7 @@ A long long way to go. I want to be with the best of the best people in the worl
 14. I have observed this multiple times. I always get the toughest of the opponents/teams. 
 For eg. During TT Championship -- I got the guy who won the cup.
 Similarly, at work, I got the toughest team. GPU Team.
-15. CS Undergrads from Brazil are designing Routing, DRC Engines and M.S students from NTU are coding **B+ Tree Based Floorplanning** for assignments. What am I even doing with my life? There is so much **gap** even at the academic level. There is no way India can catch upto that level. India will for-ever be an **Execution Center** and US/Taiwan/Europe/China will always have a giant lead. There will always be a 50-100 year gap between India and the developed countries. I have just seen **Thens** who has done some active contributions towards EDA.
+15. CS Undergrads from Brazil are designing Routing, DRC Engines and M.S students from NTU are coding **B+ Tree Based Floorplanning** for assignments. What am I even doing with my life? There is so much **gap** even at the academic level. There is no way India can catch upto that level. India will for-ever be an **Execution Center** and US/Taiwan/Europe/China will always have a giant lead. There will always be a 50-100 year gap between India and the developed countries. I have just seen **Thens** who has done some active contributions towards EDA. What **Sibi Kabilan** told 3 years back, I am realising that now. The Qualcomms, Intels, nVidia's, AMD's of India are glorified **Body Shops/Service Centers** of the US counterparts.
 
 
 ------------------------
