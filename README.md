@@ -38,10 +38,6 @@ This is an excellent platform that is similar to LeetCode. I have learnt immense
 ### [**Leet Code**](https://leetcode.com) account
 [**Sethupathi on LeetCode**](https://leetcode.com/submissions/#/1)
 
-### [**CodeZen**](https://codezen.codingninjas.com/?_ga=2.138767667.1824624368.1597571625-2043193814.1597571625) account
-[**Sethupathi on CodeZen**](https://codezen.codingninjas.com/dashboard?_ga=2.138767667.1824624368.1597571625-2043193814.1597571625)
-
-
 ### [**Quora**](https://www.quora.com/profile/Sethupathi-Balakrishnan-सेतुपति-बालकृष्णन) answers
 1. [**On MOOC's.**](https://www.quora.com/How-effective-are-Moocs-for-learning-programming-languages/answer/Sethupathi-Balakrishnan-%E0%A4%B8%E0%A5%87%E0%A4%A4%E0%A5%81%E0%A4%AA%E0%A4%A4%E0%A4%BF-%E0%A4%AC%E0%A4%BE%E0%A4%B2%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A4%A8?ch=2&srid=O1GE) 
 2. [**Surely You're Joking Mr.Feynman.**](https://www.quora.com/Is-Surely-Youre-Joking-Mr-Feynman-Adventures-of-a-Curious-Character-by-Richard-P-Feynman-worth-the-read/answer/Sethupathi-Balakrishnan-%E0%A4%B8%E0%A5%87%E0%A4%A4%E0%A5%81%E0%A4%AA%E0%A4%A4%E0%A4%BF-%E0%A4%AC%E0%A4%BE%E0%A4%B2%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A4%A8?ch=2&srid=O1GE) 
