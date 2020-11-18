@@ -84,7 +84,7 @@ This is a list of people whom I admire the most and look up to.
 [**Alberto Sangiovanni Vincentelli**](https://scholar.google.com/citations?user=AhgjQ2QAAAAJ&hl=en)
 1. [**ABK**](https://vlsicad.ucsd.edu), [**Igor Markov**](https://web.eecs.umich.edu/~imarkov/) & [**Sachin Sapatnekar**](http://people.ece.umn.edu/users/sachin/realbio.html).
 2. [**Huang-Yu Chen aka Yellow Fish**](http://eda.ee.ntu.edu.tw/~yellowfish/)
-3. [**Yao-Wen Chang**](http://cc.ee.ntu.edu.tw/~ywchang/)
+3. [**Yao-Wen Chang**](http://cc.ee.ntu.edu.tw/~ywchang/) & [**Tung-Chieh Chen**](https://www.linkedin.com/in/tungchieh/?originalSubdomain=tw) **(Maxeda)**
 4. [**Terrence Tao**](https://www.math.ucla.edu/~tao/)
 5. [**Natalia Komarova**](https://www.math.uci.edu/~komarova/)
 6. [**Ajith Diwan**](https://www.cse.iitb.ac.in/~aad/)
