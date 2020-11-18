@@ -247,7 +247,7 @@ Similarly, at work, I got the toughest team. GPU Team.
 9. Cracking **IIIT-Hyderabad** PGEE.
 10. Working with Nishant Mishra (BCG) on Teacher Transfer Portal Review Project.
 11. Wrote a lot of Quora and Medium Articles. (If that counts!).
-12. 70 Clones on this repository till date. (18th Nov 2020). (If this matters!). It is a metric that the information contained in this repository has benifitted at-least 70 cloners. And as an after effect, it would've made their lives better saving thousands of man-hours which would otherwise have been invested in researching. I managed to make this world a better place indirectly.
+12. 70 Clones on this repository till date. (18th Nov 2020). (If this matters!). It is a metric that the information contained in this repository has benifitted at-least 70 cloners. And as an after effect, it would've made their lives better by saving thousands of man-hours which otherwise would have been invested in researching. I managed to make this world a better place indirectly.
 ------------------------
 ### Quote Fest
 
