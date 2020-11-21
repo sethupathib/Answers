@@ -141,7 +141,12 @@ A long long way to go. I want to be with the best of the best people in the worl
 6. **IOI Problems**.
 7. **ACM ICPC**.
 8. **Putnam Competition Problems + IMO Problems**
+------------------------
+### **Project Ideas**
 
+1. Design of Intrapolator.
+2. B* Tree based floorplanner (an assignment actually).
+3. Solving some IOI problems is a project in itself.
 ------------------------
 ### **Tutorial Recordings**
 1. [**ALIGN Tutorial**](https://onedrive.live.com/?cid=e0e9b5eef85b162e&id=E0E9B5EEF85B162E%2157177&sff=1&authkey=!AJkqTms52bOdZu0)
