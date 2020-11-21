@@ -225,6 +225,9 @@ Similarly, at work, I got the toughest team. GPU Team.
 9. GRE/CAT practice.
 10. PhD Ideas.
 11. Signals and Systems (FFT comes here. Also comes in Competitive Programming.)
+12. [**InsideIIM**](https://insideiim.com)
+13. [**Insight IIT**](https://www.insightiitb.org)
+14. [**Poets & Quants**](https://poetsandquants.com)
 ------------------------
 ### **Hacks**
 1. Getting up early.
