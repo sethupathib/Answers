@@ -257,6 +257,16 @@ Similarly, at work, I got the toughest team. GPU Team.
 11. Wrote a lot of Quora and Medium Articles. (If that counts!).
 12. 70 Clones on this repository till date. (18th Nov 2020). (If this matters!). It is a metric that the information contained in this repository has benifitted at-least 70 cloners. And as an after effect, it would've made their lives better by saving thousands of man-hours which otherwise would have been invested in researching. I managed to make this world a better place indirectly.
 ------------------------
+### **Random Ideas**
+
+1. Streaming some topics in VLSI/EDA on Youtube.
+2. RoadTrip. Increasing the no. of touch points.
+3. Restart Badminton Coaching and start playing Table Tennis Again.
+4. Designing more complex structures.
+5. Exchanging values from Dad. (Floorplanning, Structures etc).
+6. Interior Design Ideas.
+7. Studio.
+------------------------
 ### Quote Fest
 
 1. The only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle. As with all matters of the heart, you’ll know when you find it. -- **Steve Jobs**
