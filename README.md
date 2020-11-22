@@ -108,6 +108,7 @@ Honorable Mentions --
 6. [**Naveen Garg**](https://scholar.google.com/citations?user=wNRE148AAAAJ&hl=en)
 7. [**Prateek Narang**](http://www.prateeknarang.com)
 8. [**Kunal Ghosh**](https://www.udemy.com/user/anagha/)
+9. [**Pasquale Ferrara**](https://www.quora.com/profile/Pasquale-Ferrara)
 ------------------------
 ### **VLSI/VLSI-EDA Projects**
 1. [**vsdGraphExtractor**](https://github.com/sethupathib/vsdGraphExtractor).
