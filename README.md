@@ -17,7 +17,7 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 4. [**Algorithmic Problems & their applications in S/W development.**](https://medium.com/@sethupathibalakrishnan/algorithmic-problems-their-applications-in-s-w-development-afeef6206609)
 5. [**VLSI-CAD Research Competitions.**](https://medium.com/@sethupathibalakrishnan/vlsi-cad-research-competitions-6a318a1d3ef3)
 6. [**Imposter Syndrome.**](https://medium.com/@sethupathibalakrishnan/imposter-syndrome-245d5496e15a)
-6. [**Taiwanese Research : My Thoughts**](https://sethupathibalakrishnan.medium.com/taiwanese-research-my-thoughts-2ed235163a7b)
+6. [**Taiwanese Research : My Thoughts.**](https://sethupathibalakrishnan.medium.com/taiwanese-research-my-thoughts-2ed235163a7b)
 6. [**Prof. AB Kahng.**](https://github.com/sethupathib/Answers/blob/master/ABK.jpg)
 
 
