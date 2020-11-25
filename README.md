@@ -259,7 +259,7 @@ Similarly, at work, I got the toughest team. GPU Team.
 ------------------------
 ### **Highlights**
 0. Interviewing with a top Semiconductor Firm in the World for a position in HQ.
-1. VIT VLSI & Interacting with the B.Tech CS Grads from VIT.
+1. VIT VLSI & Interacting with the B.Tech CS Grads from VIT (Cambuzz).
 2. Trip to Thailand during first year of work.
 3. 2 Tape-outs from Qualcomm (GPU Implementation)
 4. Design Internship at **The Minimalist**. (Didn't pursue)
