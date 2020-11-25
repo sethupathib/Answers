@@ -127,6 +127,7 @@ Honorable Mentions --
 9. [**Design @ Apple**](https://qz.com/580381/inside-apples-highly-secretive-design-studio/)
 10. [**Kiana Bespoke**](https://www.kianainvitations.com)
 11. [**Prastut Kumar**](https://www.behance.net/prastutkumar)
+12. [**Grab CAD**](https://grabcad.com/library)
 ------------------------
 ### **Mock Website**
 [**Sethupathi Balakrishnan's Design Website**](https://bsethupathi.myportfolio.com)
@@ -267,6 +268,7 @@ Similarly, at work, I got the toughest team. GPU Team.
 11. Wrote a lot of Quora and Medium Articles. (If that counts!).
 12. 70 Clones on this repository till date. (18th Nov 2020). (If this matters!). It is a metric that the information contained in this repository has benifitted at-least 70 cloners. And as an after effect, it would've made their lives better by saving thousands of man-hours which otherwise would have been invested in researching. I managed to make this world a better place indirectly.
 13. Got Validation from AMD-CTO (Data Center) **Mr. Raghu Nambiar** for this repository.
+14. Closed (not really) 2 clients from the United States through fiverr.com. They did come to me with business proposals.
 ------------------------
 ### **Random Ideas**
 
@@ -313,3 +315,4 @@ Similarly, at work, I got the toughest team. GPU Team.
 31. You won’t get it right if you don’t commit to keep trying.
 32. If you work to understand what job you are being hired to do, both professionally and in your personal life, the payoff will be enormous. 
 33. In sacrificing for something worthwhile, you deeply strengthen your commitment to it.
+34. Sometimes it is the people no one imagines anything of who do the things that no one can imagine. --**Alan Turing**.
