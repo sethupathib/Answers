@@ -128,6 +128,7 @@ Honorable Mentions --
 10. [**Kiana Bespoke**](https://www.kianainvitations.com)
 11. [**Prastut Kumar**](https://www.behance.net/prastutkumar)
 12. [**Grab CAD**](https://grabcad.com/library)
+13. [**Arch Daily**](https://www.archdaily.com/?ad_name=small-logo)
 ------------------------
 ### **Mock Website**
 [**Sethupathi Balakrishnan's Design Website**](https://bsethupathi.myportfolio.com)
