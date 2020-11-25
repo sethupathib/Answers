@@ -146,7 +146,7 @@ A long long way to go. I want to be with the best of the best people in the worl
 ------------------------
 ### **Doubts**
 1. Which has a better routing engine? Z-Route from Synopsys or Maps from Google.
-2. 
+2. Future of EDA? (My belief, as long as software exists, EDA will be present).
 ------------------------
 ### **Project Ideas**
 
