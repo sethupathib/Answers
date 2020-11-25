@@ -65,7 +65,7 @@ This is an excellent platform that is similar to LeetCode. I have learnt immense
 10. [**ISPD Detailed Routing Contest**](http://www.ispd.cc/contests/18/) -- Something that I want to do in the future.
 11. [**IOI Syllabus**](https://ioinformatics.org/files/ioi-syllabus-2019.pdf)
 12. [**Quartz**](https://qz.com/india/)
-
+13. [**How does the Consulting Industry Work?**](https://qr.ae/pN9FRz)
 ------------------------
 ### **Reading List**
 1. Atlas Shrugged and The Fountainhead by Ayn Rand.
