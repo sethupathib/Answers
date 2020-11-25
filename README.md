@@ -150,7 +150,7 @@ A long long way to go. I want to be with the best of the best people in the worl
 ### **Doubts**
 1. Which has a better routing engine? Z-Route from Synopsys or Maps from Google.
 2. Future of EDA? (My belief, as long as software exists, EDA will be present).
-3. Clock Sink Point Clustering. Why is it such a big deal? Why have we not solved this good enough?
+3. Clock Sink Point Clustering. Why is it such a big deal? Why have we not solved this well enough?
 ------------------------
 ### **Project Ideas**
 
@@ -224,9 +224,9 @@ Similarly, at work, I got the toughest team. GPU Team.
 -----------------------
 ### **Much Much Later (Probably after 1 year)**
 1. Design related ideas. Interior Design. Design of Machines. Design in General.
-    -- Learn **Blender** & **Sketchup**.
-    -- Buy iPad Pro & a Digital Pen Tablet.
-    -- Learn Solid Works.
+    - Learn **Blender** & **Sketchup**.
+    - Buy iPad Pro & a Digital Pen Tablet.
+    - Learn Solid Works.
 2. Drawing.
 3. [**Surviving IIM-A.**](https://www.youtube.com/playlist?list=PLIO8daZRc7DcLyv5ptsJwU-aqnZc0Tznt)
 4. [**Consulting Cases**](https://www.youtube.com/playlist?list=PLIO8daZRc7Dfu0GloK0HJbU2k6v1wNoDX) & [**Example Cases.**](https://www.youtube.com/playlist?list=PLIO8daZRc7DdLTW-PK4tpQpePP3ee-TkD)
