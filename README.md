@@ -150,6 +150,7 @@ A long long way to go. I want to be with the best of the best people in the worl
 ### **Doubts**
 1. Which has a better routing engine? Z-Route from Synopsys or Maps from Google.
 2. Future of EDA? (My belief, as long as software exists, EDA will be present).
+3. Clock Sink Point Clustering. Why is it such a big deal? Why have we not solved this good enough?
 ------------------------
 ### **Project Ideas**
 
@@ -275,7 +276,7 @@ Similarly, at work, I got the toughest team. GPU Team.
 ------------------------
 ### **Random Ideas**
 
-1. Streaming some topics in VLSI/EDA on Youtube.
+1. Streaming some topics in VLSI/EDA on Youtube.  Probably make a tutorial in Tamil on how to get started with programming. <-- This is very much needed. There is so much knowledge gap.
 2. RoadTrip. Increasing the no. of touch points.
 3. Restart Badminton Coaching and start playing Table Tennis Again.
 4. Designing more complex structures.
