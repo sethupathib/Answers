@@ -129,6 +129,7 @@ Honorable Mentions --
 11. [**Prastut Kumar**](https://www.behance.net/prastutkumar)
 12. [**Grab CAD**](https://grabcad.com/library)
 13. [**Arch Daily**](https://www.archdaily.com/?ad_name=small-logo)
+14. [**Architecture Beast**](https://architecturebeast.com/top-50-modern-house-designs-ever-built/)
 ------------------------
 ### **Mock Website**
 [**Sethupathi Balakrishnan's Design Website**](https://bsethupathi.myportfolio.com)
