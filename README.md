@@ -144,6 +144,10 @@ A long long way to go. I want to be with the best of the best people in the worl
 7. **ACM ICPC**.
 8. **Putnam Competition Problems + IMO Problems**
 ------------------------
+### **Doubts**
+1. Which has a better routing engine? Z-Route from Synopsys or Maps from Google.
+2. 
+------------------------
 ### **Project Ideas**
 
 1. Design of Intrapolator.
