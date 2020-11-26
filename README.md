@@ -276,7 +276,7 @@ Similarly, at work, I got the toughest team. GPU Team.
 ------------------------
 ### **Random Ideas**
 
-1. Streaming some topics in VLSI/EDA on Youtube.  Probably make a tutorial in Tamil on how to get started with programming. <-- This is very much needed. There is so much knowledge gap.
+1. Streaming some topics in VLSI/EDA on Youtube. 
 2. RoadTrip. Increasing the no. of touch points.
 3. Restart Badminton Coaching and start playing Table Tennis Again.
 4. Designing more complex structures.
