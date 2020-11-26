@@ -154,6 +154,7 @@ A long long way to go. I want to be with the best of the best people in the worl
 1. Which has a better routing engine? Z-Route from Synopsys or Maps from Google.
 2. Future of EDA? (My belief, as long as software exists, EDA will be present).
 3. Clock Sink Point Clustering. Why is it such a big deal? Why have we not solved this well enough?
+4. Should one become a competitive programmer to be a good EDA Researcher?
 ------------------------
 ### **Project Ideas**
 
