@@ -67,6 +67,8 @@ This is an excellent platform that is similar to LeetCode. I have learnt immense
 12. [**Quartz**](https://qz.com/india/)
 13. [**How does the Consulting Industry Work?**](https://qr.ae/pN9FRz)
 14. [**McKinsey Insights**](https://www.mckinsey.com/featured-insights)
+15. [**Harvard Business Review**](https://hbr.org)
+16. [**Wolfram Alpha**](https://www.wolframalpha.com)
 ------------------------
 ### **Reading List**
 1. Atlas Shrugged and The Fountainhead by Ayn Rand.
