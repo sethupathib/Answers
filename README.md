@@ -197,6 +197,7 @@ A long long way to go. I want to be with the best of the best people in the worl
 5. Linked List Coding Problems on Binary Search. (Going On).
 6. Non Linear Data Structures Practice (Going On).
 7. JEE Math Lectures. (Going On)
+8. Improve Aptitude/IQ.
 ------------------------
 ### **Observations**
 1. Computer Science not only teaches you tech, it teaches you life.
@@ -284,7 +285,7 @@ Similarly, at work, I got the toughest team. GPU Team.
 ------------------------
 ### **Random Ideas**
 
-1. Streaming some topics in VLSI/EDA on Youtube. 
+1. Streaming some topics in VLSI/EDA on Youtube.  
 2. RoadTrip. Increasing the no. of touch points.
 3. Restart Badminton Coaching and start playing Table Tennis Again.
 4. Designing more complex structures.
