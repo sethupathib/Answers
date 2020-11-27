@@ -156,6 +156,9 @@ A long long way to go. I want to be with the best of the best people in the worl
 3. Clock Sink Point Clustering. Why is it such a big deal? Why have we not solved this well enough?
 4. Should one become a competitive programmer to be a good EDA Researcher?
 5. Tech Mapping (Very Hard).
+6. 'Strings' <-- How important are they in EDA?
+7. Discuss Thens' paper (Graph Based Floorplanning). Again, Macro Mapping onto Graphs? How to do this?
+8. Legaliser.
 ------------------------
 ### **Project Ideas**
 
