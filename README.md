@@ -163,7 +163,7 @@ A long long way to go. I want to be with the best of the best people in the worl
 ### **Project Ideas**
 
 1. Design of Intrapolator.
-2. B* Tree based floorplanner (an assignment actually).
+2. B* Tree based floorplanner (an assignment actually). Try to complete [**these**](http://eda.ee.ntu.edu.tw/research.htm) projects. Also, CTS Engine.
 3. Solving some IOI problems is a project in itself.
 4. Placer and Router Design as mentioned in the UIUC lectures.
 5. Clock sink point clustering optimising for better skews.
