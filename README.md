@@ -69,6 +69,7 @@ This is an excellent platform that is similar to LeetCode. I have learnt immense
 14. [**McKinsey Insights**](https://www.mckinsey.com/featured-insights)
 15. [**Harvard Business Review**](https://hbr.org)
 16. [**Wolfram Alpha**](https://www.wolframalpha.com)
+17. [**Academic Publishing**](https://home.iitk.ac.in/~anindya/Publishing_Game.pdf)
 ------------------------
 ### **Reading List**
 1. Atlas Shrugged and The Fountainhead by Ayn Rand.
