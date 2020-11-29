@@ -333,3 +333,4 @@ Similarly, at work, I got the toughest team. GPU Team.
 32. If you work to understand what job you are being hired to do, both professionally and in your personal life, the payoff will be enormous. 
 33. In sacrificing for something worthwhile, you deeply strengthen your commitment to it.
 34. Sometimes it is the people no one imagines anything of who do the things that no one can imagine. --**Alan Turing**.
+35. If you aren’t getting rejected on a daily basis, your goals aren’t ambitious enough. --**Chris Dixon**.
