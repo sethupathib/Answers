@@ -72,6 +72,8 @@ This is an excellent platform that is similar to LeetCode. I have learnt immense
 17. [**Academic Publishing**](https://home.iitk.ac.in/~anindya/Publishing_Game.pdf)
 18. [**A Junior VC**](https://ajuniorvc.com)
 19. [**Finshots -- Financial News Made Simple**](https://finshots.in)
+20. [**Emily Chen**](https://www.youtube.com/channel/UCM4l7GT-CGEKMd4rJ0pKKFA/videos)
+21. [**Anubhav Talks**](https://www.youtube.com/channel/UCW0o5tx4XM2uh7nIw8rUdog)
 ------------------------
 ### **Reading List**
 1. Atlas Shrugged and The Fountainhead by Ayn Rand.
