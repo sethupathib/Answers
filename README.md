@@ -336,3 +336,4 @@ Similarly, at work, I got the toughest team. GPU Team.
 33. In sacrificing for something worthwhile, you deeply strengthen your commitment to it.
 34. Sometimes it is the people no one imagines anything of who do the things that no one can imagine. --**Alan Turing**.
 35. If you aren’t getting rejected on a daily basis, your goals aren’t ambitious enough. --**Chris Dixon**.
+36. Everything You've ever wanted is one step outside of your comfort zone.
