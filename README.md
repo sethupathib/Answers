@@ -346,3 +346,4 @@ Similarly, at work, I got the toughest team. GPU Team.
 36. Everything You've ever wanted is one step outside of your comfort zone.
 37. The fool is the precursor to the savior. --**Carl Jung**.
 38. With Aggresion comes Rigour. --**Sethupathi Balakrishnan**.
+39. There are decades when nothing happens and there are weeks where decades happen. --**Lenin**
