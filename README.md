@@ -74,6 +74,7 @@ This is an excellent platform that is similar to LeetCode. I have learnt immense
 19. [**Finshots -- Financial News Made Simple**](https://finshots.in)
 20. [**Emily Chen**](https://www.youtube.com/channel/UCM4l7GT-CGEKMd4rJ0pKKFA/videos)
 21. [**Anubhav Talks**](https://www.youtube.com/channel/UCW0o5tx4XM2uh7nIw8rUdog)
+22. [**The Almanack of Naval Ravikant**](https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_Final.pdf)
 ------------------------
 ### **Reading List**
 1. Atlas Shrugged and The Fountainhead by Ayn Rand.
