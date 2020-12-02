@@ -76,6 +76,12 @@ This is an excellent platform that is similar to LeetCode. I have learnt immense
 21. [**Anubhav Talks**](https://www.youtube.com/channel/UCW0o5tx4XM2uh7nIw8rUdog)
 22. [**The Almanack of Naval Ravikant**](https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_Final.pdf)
 ------------------------
+### **Intriguing Podcasts**
+1. [**Naval Ravikant**](https://podcasts.apple.com/us/podcast/naval/id1454097755)
+2. [**Lex Fridman**](https://podcasts.apple.com/us/podcast/lex-fridman-podcast/id1434243584)
+3. [**Finshots Daily**](https://podcasts.apple.com/us/podcast/finshots-daily/id1532901566)
+4. [**Founders Unfiltered - ajvc**](https://podcasts.apple.com/us/podcast/founders-unfiltered/id1507039886?utm_source=podcast&utm_medium=website&utm_campaign=apple)
+------------------------
 ### **Reading List**
 1. Atlas Shrugged and The Fountainhead by Ayn Rand.
 2. Ego is the Enemy by Ryan Holiday.
