@@ -286,7 +286,7 @@ Similarly, at work, I got the toughest team. GPU Team.
 3. 2 Tape-outs from Qualcomm (GPU Implementation)
 4. Design Internship at **The Minimalist**. (Didn't pursue)
 5. CS Internship at **IIT Madras**. (Didn't pursue)
-6. Interview with Marvell (went till final round).
+6. Interview with Marvell & Intel (went till final round).
 7. Internship with VSD (Kunal Ghosh). (Euler Path Generation for Digital Circuits)
 8. **ETH Zurich** researchers taking this repository for their research.
 9. Cracking **IIIT-Hyderabad** PGEE.
