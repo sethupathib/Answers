@@ -60,7 +60,8 @@ This is an excellent platform that is similar to LeetCode. I have learnt immense
   <img width="750" height="370" src="dunning_kruger.jpg">
 </p>
 
-------------------------
+If observed carefully, this is exactly how "Simulated Annealing Algorithm" works. It's a famous "Placement Algorithm" used in VLSI Physical Design and the philosophy of this algorithm has been taken from Physics/Thermodynamics.
+------------------------ 
 
 ### **Intriguing Article List**
 1. [**The Gervais Principle, Or The Office According to “The Office".**](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
