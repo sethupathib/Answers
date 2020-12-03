@@ -114,6 +114,7 @@ This is a list of people whom I admire the most and look up to.
 13. [**Elon Musk**](https://en.wikipedia.org/wiki/Elon_Musk) 
 14. [**Errichto**](https://codeforces.com/profile/Errichto)
 15. [**Pashka**](https://codeforces.com/profile/pashka)
+16. [**Asim Quershi**](https://www.quora.com/profile/Asim-Qureshi-17) & his [**homeschooling**](https://wonderyearsschool.com/author/launchpadstartups/) blog. 
 
 Honorable Mentions --
 1. [**Tsung-Yi Ho**](http://www.cs.nthu.edu.tw/~tyho/)
