@@ -59,8 +59,8 @@ This is an excellent platform that is similar to LeetCode. I have learnt immense
 <p align="center">
   <img width="750" height="370" src="dunning_kruger.jpg">
 </p>
-
-If observed carefully, this is exactly how "Simulated Annealing Algorithm" works. It's a famous "Placement Algorithm" used in VLSI Physical Design and the philosophy of this algorithm has been taken from Physics/Thermodynamics.
+ If observed carefully, this is exactly how "Simulated Annealing Algorithm" works. It's a famous "Placement Algorithm" used in VLSI Physical Design and the philosophy of this algorithm has been taken from Physics/Thermodynamics.
+ 
 ------------------------ 
 
 ### **Intriguing Article List**
