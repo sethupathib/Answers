@@ -51,6 +51,16 @@ This is an excellent platform that is similar to LeetCode. I have learnt immense
 [**Sethupathi Balakrishnan on Twitter.**](https://twitter.com/bsethupathi)
 
 ------------------------
+### Lex Fridman's Presentation
+<p align="center">
+  <img width="750" height="450" src="dunning_kruger.png">
+</p>
+
+<p align="center">
+  <img width="750" height="450" src="existential_opt.png">
+</p>
+
+------------------------
 
 ### **Intriguing Article List**
 1. [**The Gervais Principle, Or The Office According to “The Office".**](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
