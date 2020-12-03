@@ -53,11 +53,11 @@ This is an excellent platform that is similar to LeetCode. I have learnt immense
 ------------------------
 ### Lex Fridman's Presentation
 <p align="center">
-  <img width="750" height="450" src="dunning_kruger.png">
+  <img width="750" height="450" src="dunning_kruger.jpg">
 </p>
 
 <p align="center">
-  <img width="750" height="450" src="existential_opt.png">
+  <img width="750" height="450" src="existential_opt.jpg">
 </p>
 
 ------------------------
