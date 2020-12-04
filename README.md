@@ -371,3 +371,4 @@ Similarly, at work, I got the toughest team. GPU Team.
 38. With Aggresion comes Rigour. --**Sethupathi Balakrishnan**.
 39. There are decades when nothing happens and there are weeks where decades happen. --**Lenin**
 40. Pain and suffering are always inevitable for a large intelligent and a deep heart. The really great men must, I think have great sadness on earth -- **Fyodor Dostoevsky**
+41. Friends are God's way of apologizing for your family.
