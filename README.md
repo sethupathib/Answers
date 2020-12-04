@@ -223,6 +223,7 @@ A long long way to go. I want to be with the best of the best people in the worl
 12. [**Coursera VLSI CAD Course**](https://www.coursera.org/learn/vlsi-cad-layout/supplement/Ytgkc/week-1-overview) (I figured this out recently. This is the best VLSI CAD course out there that is available for free. Man, these guys have Placement and Routing Visualisers etc. It's always been my dream to do work at this level.)
 13. A project on Routing and Timing. (Tool Design and Development).
 14. Solving problems on Binary Search. (It's very rewarding. I got to know a lot of concepts by solving problems).
+15. Learn [**Linear & Integer Programming**](https://www.amazon.com/Linear-Integer-Programming-Made-Easy-ebook/dp/B01F4TH310).
 ------------------------
 ### **Progress Tracking**
 1. Bit Masking (Completed).
