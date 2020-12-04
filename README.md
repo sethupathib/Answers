@@ -67,6 +67,10 @@ This is an excellent platform that is similar to LeetCode. I have learnt immense
   <img width="750" height="450" src="a1.jpg">
 </p>
 
+<p align="center">
+  <img width="900" height="350" src="a2.jpg">
+</p>
+
 ------------------------ 
 
 ### **Intriguing Article List**
