@@ -222,6 +222,7 @@ A long long way to go. I want to be with the best of the best people in the worl
 6. Non Linear Data Structures Practice (Going On).
 7. JEE Math Lectures. (Going On)
 8. Improve Aptitude/IQ.
+9. Learn LaTeX.
 ------------------------
 ### **Observations**
 1. Computer Science not only teaches you tech, it teaches you life.
