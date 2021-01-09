@@ -104,6 +104,10 @@ This is an excellent platform that is similar to LeetCode. I have learnt immense
 3. [**Finshots Daily**](https://podcasts.apple.com/us/podcast/finshots-daily/id1532901566)
 4. [**Founders Unfiltered - ajvc**](https://podcasts.apple.com/us/podcast/founders-unfiltered/id1507039886?utm_source=podcast&utm_medium=website&utm_campaign=apple)
 ------------------------
+### **E-Book Library**
+1. [**Z Library**](https://b-ok.asia)
+2. [**PDF Drive**](https://www.pdfdrive.com)
+------------------------
 ### **Reading List**
 1. Atlas Shrugged and The Fountainhead by Ayn Rand.
 2. Ego is the Enemy by Ryan Holiday.
