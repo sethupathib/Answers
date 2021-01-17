@@ -99,6 +99,7 @@ This is an excellent platform that is similar to LeetCode. I have learnt immense
 21. [**Anubhav Talks**](https://www.youtube.com/channel/UCW0o5tx4XM2uh7nIw8rUdog)
 22. [**The Almanack of Naval Ravikant**](https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_Final.pdf)
 23. [**Dynamic Programming**](https://www.youtube.com/watch?v=oBt53YbR9Kk)
+24. [**Principles by Ray Dalio**](https://www.youtube.com/c/principlesbyraydalio/playlists)
 ------------------------
 ### **Intriguing Podcasts**
 1. [**Naval Ravikant**](https://podcasts.apple.com/us/podcast/naval/id1454097755)
