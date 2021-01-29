@@ -268,6 +268,7 @@ Similarly, at work, I got the toughest team. GPU Team.
 15. CS Undergrads from Brazil are designing Routing, DRC Engines and M.S students from NTU are coding **B+ Tree Based Floorplanning** for assignments. What am I even doing with my life? There is so much **gap** even at the academic level. There is no way India can catch upto that level. India will for-ever be an **Execution Center** and US/Taiwan/Europe/China will always have a giant lead. There will always be a 50-100 year gap between India and the developed countries. I have just seen **Thens** who has done some active contributions towards EDA. I am realising what **Sibi Kabilan** told 3 years back. The Qualcomms, Intels, nVidia's, AMD's of India are glorified **Body Shops/Service Centers** of the US counterparts.
 16. Exams that are "worthy" of chasing in India -- JEE/CAT/UPSC/NEET & maybe CEED. "GATE" is actually a downgrade. (I did it because I wanted to reach '0' from -(INT_MAX) ). 
 17. I tend to take things to my ego very fast. For eg. I didn't fare well in STA during my post grad times. However, I happened to have nailed STA when I entered the industry. Similarly, I was not so proficient in Programming, but later I spent a lot of time and cracked Research Intern at IIT-Madras.
+18. "Brazil" is kicking ass in Physical Design EDA. It makes me wonder 'How does a developing country become so good at EDA/Algorithms?'
 
 ------------------------
 ### **Much Later**
