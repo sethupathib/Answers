@@ -132,6 +132,7 @@ This is a list of people whom I admire the most and look up to.
 3. [**Yao-Wen Chang (NTU)**](http://cc.ee.ntu.edu.tw/~ywchang/) & [**Tung-Chieh Chen**](https://www.linkedin.com/in/tungchieh/?originalSubdomain=tw) **(Maxeda)**
 4. [**Terrence Tao**](https://www.math.ucla.edu/~tao/)
 5. [**Natalia Komarova**](https://www.math.uci.edu/~komarova/)
+7. [**Jens Vygen**](http://www.or.uni-bonn.de/cards/home/vygen/indexeng.html)
 6. [**Ajith Diwan**](https://www.cse.iitb.ac.in/~aad/)
 7. [**Rob Rutenbar**](https://www.rutenbar.pitt.edu)
 8. [**Jan Rabaey**](https://www2.eecs.berkeley.edu/Faculty/Homepages/rabaey.html) &
