@@ -160,6 +160,10 @@ Honorable Mentions --
 1. [**vsdGraphExtractor**](https://github.com/sethupathib/vsdGraphExtractor).
 2. **GPU Floorplan, Place & Route**. 
 ------------------------
+### **Physical Design EDA**
+1. [**Alberto Sangiovanni Vincentelli's Talk on the History of EDA**](https://www.youtube.com/watch?v=q_2eBd9JUWg)
+2. [**DAWN (Design Automation Webinars)**](https://www.youtube.com/c/IEEECouncilonElectronicDesignAutomation/videos)
+------------------------
 ### **Design**
 1. [**MIT Media Lab**](https://www.media.mit.edu)
 2. [**The Design Lab @ UCSD**](https://designlab.ucsd.edu)
