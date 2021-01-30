@@ -282,6 +282,7 @@ Similarly, at work, I got the toughest team. GPU Team.
 7. Template for Competitive Programming from Coding Blocks.
 8. [**BlackPen RedPen**](https://www.youtube.com/c/blackpenredpen/playlists)
 9. [**3Blue1Brown**](https://www.youtube.com/c/3blue1brown/playlists)
+15. [**Pre-RMO Playlist**](https://www.youtube.com/playlist?list=PLAJfHGTj6RJ8LlnBpUX-4S4fKWeBE_42V)
 -----------------------
 ### **Much Much Later (Probably after 1 year)**
 1. Design related ideas. Interior Design. Design of Machines. Design in General.
@@ -302,7 +303,7 @@ Similarly, at work, I got the toughest team. GPU Team.
 12. [**InsideIIM**](https://insideiim.com)
 13. [**Insight IIT**](https://www.insightiitb.org)
 14. [**Poets & Quants**](https://poetsandquants.com)
-15. [**Pre-RMO Playlist**](https://www.youtube.com/playlist?list=PLAJfHGTj6RJ8LlnBpUX-4S4fKWeBE_42V)
+
 ------------------------
 ### **Hacks**
 1. Getting up early.
