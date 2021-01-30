@@ -302,6 +302,7 @@ Similarly, at work, I got the toughest team. GPU Team.
 12. [**InsideIIM**](https://insideiim.com)
 13. [**Insight IIT**](https://www.insightiitb.org)
 14. [**Poets & Quants**](https://poetsandquants.com)
+15. [**Pre-RMO Playlist**](https://www.youtube.com/playlist?list=PLAJfHGTj6RJ8LlnBpUX-4S4fKWeBE_42V)
 ------------------------
 ### **Hacks**
 1. Getting up early.
