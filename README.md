@@ -205,7 +205,6 @@ A long long way to go. I want to be with the best of the best people in the worl
 8. Legaliser.
 9. Why is IIT-Madras's Mgmt program not very glamorous? IIT-B & IIT-D have very good B-Schools. Also, IIT-Madras's Humanities Program is considered as a disgrace to IIT-Ma.(Their Alumni say this).
 10. There are not many VC's in the Valley that support Semiconductor Startups. Why is this? (If it is the expertise or the Tool cost. I will not buy this. Because, a lot of VC's have burnt their money on Uber/lyft/We-Work etc. There is no lack of money at all.)(Although the landscape is slowly changing).
-11. 
 ------------------------
 ### **Project Ideas**
 
