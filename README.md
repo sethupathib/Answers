@@ -235,6 +235,7 @@ A long long way to go. I want to be with the best of the best people in the worl
 13. A project on Routing and Timing. (Tool Design and Development).
 14. Solving problems on Binary Search. (It's very rewarding. I got to know a lot of concepts by solving problems).
 15. Learn [**Linear & Integer Programming**](https://www.amazon.com/Linear-Integer-Programming-Made-Easy-ebook/dp/B01F4TH310).
+16. Computational Geometry (I'm extremely extremely interested in this). **Notes** [**Geometry CP**](https://vlecomte.github.io/cp-geo.pdf) & [**CF Blog**](https://codeforces.com/blog/entry/48122). Also, Graphs (N/W Flow), Trees, Advanced Recursion & Dynamic Programming.
 ------------------------
 ### **Progress Tracking**
 1. Bit Masking (Completed).
