@@ -126,7 +126,7 @@ This is an excellent platform that is similar to LeetCode. I have learnt immense
 This is a list of people whom I admire the most and look up to.
 
 0. [**Andrew NG**](https://www.andrewng.org)  
-[**Alberto Sangiovanni Vincentelli (UC Berkeley)**](https://scholar.google.com/citations?user=AhgjQ2QAAAAJ&hl=en)
+[**Alberto Sangiovanni Vincentelli (UC Berkeley)**](https://www2.eecs.berkeley.edu/Faculty/Homepages/sangiovanni-vicentelli.html)
 1. [**Morris Chang**](https://en.wikipedia.org/wiki/Morris_Chang)
 1. [**ABK (UCSD)**](https://vlsicad.ucsd.edu), [**Igor Markov (UMich)**](https://web.eecs.umich.edu/~imarkov/), [**Sachin Sapatnekar (UMinn)**](http://people.ece.umn.edu/users/sachin/realbio.html) and [**David Z Pan (UT Austin)**](http://users.ece.utexas.edu/~dpan/).
 2. [**Huang-Yu Chen aka Yellow Fish**](http://eda.ee.ntu.edu.tw/~yellowfish/)
