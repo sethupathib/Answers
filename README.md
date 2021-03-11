@@ -324,20 +324,21 @@ Similarly, at work, I got the toughest team. GPU Team.
 ------------------------
 ### **Highlights**
 0. Interviewing with a top Semiconductor Firm in the World for a position in HQ.
-1. VIT VLSI & Interacting with the B.Tech CS Grads from VIT (Cambuzz).
-2. Trip to Thailand during first year of work.
-3. 2 Tape-outs from Qualcomm (GPU Implementation)
-4. Design Internship at **The Minimalist**. (Didn't pursue)
-5. CS Internship at **IIT Madras**. (Didn't pursue)
-6. Interview with Marvell & Intel (went till final round).
-7. Internship with VSD (Kunal Ghosh). (Euler Path Generation for Digital Circuits)
-8. **ETH Zurich** researchers taking this repository for their research.
-9. Cracking **IIIT-Hyderabad** PGEE.
-10. Working with Nishant Mishra (BCG) on Teacher Transfer Portal Review Project.
-11. Wrote a lot of Quora and Medium Articles. (If that counts!).
-12. 70 Clones on this repository till date. (18th Nov 2020). (If this matters!). It is a metric that the information contained in this repository has benifitted at-least 70 cloners. And as an after effect, it would've made their lives better by saving thousands of man-hours which otherwise would have been invested in researching. I managed to make this world a better place indirectly.
-13. Got Validation from AMD-CTO (Data Center) **Mr. Raghu Nambiar** for this repository.
-14. Closed (not really) 2 clients from the United States through fiverr.com. They did come to me with business proposals.
+1. Working with Dr. Yao Wen Chang on Physical Design Problems.
+2. VIT VLSI & Interacting with the B.Tech CS Grads from VIT (Cambuzz).
+3. Trip to Thailand during first year of work.
+4. 2 Tape-outs from Qualcomm (GPU Implementation)
+5. Design Internship at **The Minimalist**. (Didn't pursue)
+6. CS Internship at **IIT Madras**. (Didn't pursue)
+7. Interview with Marvell & Intel (went till final round).
+8. Internship with VSD (Kunal Ghosh). (Euler Path Generation for Digital Circuits)
+9. **ETH Zurich** researchers taking this repository for their research.
+10. Cracking **IIIT-Hyderabad** PGEE.
+11. Working with Nishant Mishra (BCG) on Teacher Transfer Portal Review Project.
+12. Wrote a lot of Quora and Medium Articles. (If that counts!).
+13. 70 Clones on this repository till date. (18th Nov 2020). (If this matters!). It is a metric that the information contained in this repository has benifitted at-least 70 cloners. And as an after effect, it would've made their lives better by saving thousands of man-hours which otherwise would have been invested in researching. I managed to make this world a better place indirectly.
+14. Got Validation from AMD-CTO (Data Center) **Mr. Raghu Nambiar** for this repository.
+15. Closed (not really) 2 clients from the United States through fiverr.com. They did come to me with business proposals.
 ------------------------
 ### **Random Ideas**
 
