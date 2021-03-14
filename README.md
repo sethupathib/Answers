@@ -397,3 +397,4 @@ Similarly, at work, I got the toughest team. GPU Team.
 42. How you do anything is how you do everything.
 43. Attitude is Everything. 
 44. I am not what happened to me. I am what I choose to become. -- Carl Jung
+45. If you do the right things, the right things will happen to you even without your intent.
