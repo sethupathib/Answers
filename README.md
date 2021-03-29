@@ -238,7 +238,7 @@ A long long way to go. I want to be with the best of the best people in the worl
 15. Learn [**Linear & Integer Programming**](https://www.amazon.com/Linear-Integer-Programming-Made-Easy-ebook/dp/B01F4TH310).
 16. Computational Geometry (I'm extremely extremely interested in this). **Notes** [**Geometry CP**](https://vlecomte.github.io/cp-geo.pdf) & [**CF Blog**](https://codeforces.com/blog/entry/48122) and [**this**](http://students.info.uaic.ro/~paul.diac/cex/Programming-Camp-Syllabus.pdf) and [**this**](https://www.cs.princeton.edu/~rs/AlgsDS07/16Geometric.pdf), [this](https://www.topcoder.com/community/competitive-programming/tutorials/), [CP Algorithms](http://cp-algorithms.com).  Also, Graphs (N/W Flow), Trees, Advanced Recursion & Dynamic Programming.
 17. [**Mathematics for Computer Science**](https://www.youtube.com/playlist?list=PLB7540DEDD482705B).
-18. [**C++ STL -- Luv's Channel **](https://www.youtube.com/watch?v=udExMlaR_nA&list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn&index=2) 
+18. [**C++ STL -- Luv's Channel**](https://www.youtube.com/watch?v=udExMlaR_nA&list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn&index=2) 
 ------------------------
 ### **Progress Tracking**
 1. Bit Masking (Completed).
