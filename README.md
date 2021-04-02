@@ -100,6 +100,8 @@ This is an excellent platform that is similar to LeetCode. I have learnt immense
 22. [**The Almanack of Naval Ravikant**](https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_Final.pdf)
 23. [**Dynamic Programming**](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 24. [**Principles by Ray Dalio**](https://www.youtube.com/c/principlesbyraydalio/playlists)
+25. [**Competitive Programming for Schools**](https://csprep.org/additional.html)
+26. [**CP Initiative**](https://joincpi.org)
 ------------------------
 ### **Intriguing Podcasts**
 1. [**Naval Ravikant**](https://podcasts.apple.com/us/podcast/naval/id1454097755)
