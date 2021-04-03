@@ -242,6 +242,7 @@ A long long way to go. I want to be with the best of the best people in the worl
 17. [**Mathematics for Computer Science**](https://www.youtube.com/playlist?list=PLB7540DEDD482705B).
 18. [**C++ STL -- Luv's Channel**](https://www.youtube.com/watch?v=udExMlaR_nA&list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn&index=2) 
 19. [**Pep Coding Problems**](https://www.pepcoding.com/resources)
+20. [**DP Practice -- The Right Way**](https://dynalist.io/d/FAnK1zgptw2q1G-QW1E9xq5i)
 ------------------------
 ### **Progress Tracking**
 1. Bit Masking (Completed).
