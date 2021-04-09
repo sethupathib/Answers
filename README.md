@@ -19,6 +19,7 @@ This readme will have links to my Quora Answers, Medium, CareerHigh articles. Al
 6. [**Imposter Syndrome.**](https://medium.com/@sethupathibalakrishnan/imposter-syndrome-245d5496e15a)
 6. [**Taiwanese Research : My Thoughts.**](https://sethupathibalakrishnan.medium.com/taiwanese-research-my-thoughts-2ed235163a7b)
 6. [**Prof. AB Kahng.**](https://github.com/sethupathib/Answers/blob/master/ABK.jpg)
+7. [**VSD Article**](https://www.vlsisystemdesign.com/graph-extractor-spice-netlist-euler-path-generator/)
 
 
 ### [**CareerHigh**](https://careerhigh.in) articles
