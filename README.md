@@ -245,6 +245,7 @@ A long long way to go. I want to be with the best of the best people in the worl
 19. [**Pep Coding Problems**](https://www.pepcoding.com/resources)
 20. [**DP Practice -- The Right Way**](https://dynalist.io/d/FAnK1zgptw2q1G-QW1E9xq5i)
 21. [**Computational Geometry**](https://people.eecs.berkeley.edu/~jrs/274/) & [**Computational Coordinate Geometry**](http://jeffe.cs.illinois.edu/teaching/compgeom/index.html)
+22. [**STA Lecture (Very Detailed for Beginners)**](https://www.eng.biu.ac.il/temanad/files/2018/12/Lecture-5-STA.pdf)
 ------------------------
 ### **Progress Tracking**
 1. Bit Masking (Completed).
