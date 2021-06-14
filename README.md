@@ -130,10 +130,10 @@ This is a list of people whom I admire the most and look up to.
 
 0. [**Andrew NG**](https://www.andrewng.org)  
 [**Alberto Sangiovanni Vincentelli (UC Berkeley)**](https://www2.eecs.berkeley.edu/Faculty/Homepages/sangiovanni-vicentelli.html)
+1. [**Yao-Wen Chang (NTU)**](http://cc.ee.ntu.edu.tw/~ywchang/) & [**Tung-Chieh Chen**](https://www.linkedin.com/in/tungchieh/?originalSubdomain=tw) **(Maxeda)**
 1. [**Morris Chang**](https://en.wikipedia.org/wiki/Morris_Chang)
 1. [**ABK (UCSD)**](https://vlsicad.ucsd.edu), [**Igor Markov (UMich)**](https://web.eecs.umich.edu/~imarkov/), [**Sachin Sapatnekar (UMinn)**](http://people.ece.umn.edu/users/sachin/realbio.html) and [**David Z Pan (UT Austin)**](http://users.ece.utexas.edu/~dpan/).
 2. [**Huang-Yu Chen aka Yellow Fish**](http://eda.ee.ntu.edu.tw/~yellowfish/) & [**Hai Zhou(NorthWestern)**](http://users.eecs.northwestern.edu/~haizhou/)
-3. [**Yao-Wen Chang (NTU)**](http://cc.ee.ntu.edu.tw/~ywchang/) & [**Tung-Chieh Chen**](https://www.linkedin.com/in/tungchieh/?originalSubdomain=tw) **(Maxeda)**
 4. [**Terrence Tao**](https://www.math.ucla.edu/~tao/)
 5. [**Natalia Komarova**](https://www.math.uci.edu/~komarova/)
 7. [**Jens Vygen**](http://www.or.uni-bonn.de/cards/home/vygen/indexeng.html)
@@ -150,6 +150,7 @@ This is a list of people whom I admire the most and look up to.
 15. [**Pashka**](https://codeforces.com/profile/pashka)
 16. [**Asim Qureshi**](https://www.quora.com/profile/Asim-Qureshi-17) & his [**homeschooling**](https://wonderyearsschool.com/author/launchpadstartups/) blog. 
 
+
 Honorable Mentions --
 1. [**Tsung-Yi Ho**](http://www.cs.nthu.edu.tw/~tyho/)
 2. [**Iris Hui-Ru Jiang**](http://www.ee.ntu.edu.tw/profile1.php?id=1060726)
@@ -162,8 +163,10 @@ Honorable Mentions --
 9. [**Pasquale Ferrara**](https://www.quora.com/profile/Pasquale-Ferrara)
 ------------------------
 ### **VLSI/VLSI-EDA Projects**
+1. [**Physical Design Algorithms - Implementations**](https://github.com/sethupathib/Physical-Design-Algorithms-Implementation)
 1. [**vsdGraphExtractor**](https://github.com/sethupathib/vsdGraphExtractor).
 2. **GPU Floorplan, Place & Route**. 
+
 ------------------------
 ### **Physical Design EDA**
 1. [**Alberto Sangiovanni Vincentelli's Talk on the History of EDA**](https://www.youtube.com/watch?v=q_2eBd9JUWg)
@@ -215,8 +218,8 @@ A long long way to go. I want to be with the best of the best people in the worl
 1. Design of Intrapolator.
 2. B* Tree based floorplanner (an assignment actually). Try to complete [**these**](http://eda.ee.ntu.edu.tw/research.htm) projects. Also, CTS Engine.
 3. Solving some IOI problems is a project in itself.
-4. Placer and Router Design as mentioned in the UIUC lectures.
-5. Clock sink point clustering optimising for better skews.
+4. Placer and Router Design as mentioned in the UIUC lectures. (Going on)
+5. Clock sink point clustering optimising for better skews. (Did a case study)
 ------------------------
 ### **Tutorial Recordings**
 1. [**ALIGN Tutorial**](https://onedrive.live.com/?cid=e0e9b5eef85b162e&id=E0E9B5EEF85B162E%2157177&sff=1&authkey=!AJkqTms52bOdZu0)
@@ -316,11 +319,18 @@ Similarly, at work, I got the toughest team. GPU Team.
 14. [**Poets & Quants**](https://poetsandquants.com)
 
 ------------------------
-### **Hacks**
+### ** Career Hacks/Habits/Investing**
 1. Getting up early.
 2. Spending less time on "Youtube Surfing".
 3. Focussing on the present i.e giving all in.
 4. Eating Healthy.
+5. [**Rajan Singh**](https://www.youtube.com/channel/UCoOmmbxxZxL9833L21LR-_Q)
+6. [**Akshat Shrivatsava**](https://www.youtube.com/channel/UCqW8jxh4tH1Z1sWPbkGWL4g)
+7. [**Ankur Warikoo**](https://www.youtube.com/channel/UCRzYN32xtBf3Yxsx5BvJWJw)
+8. [**Chetan Bhagat**](https://www.youtube.com/channel/UCMhRbMzPqr_vca_bISQyvsA)
+9. [**Shwetabh Gangwar**](https://www.youtube.com/channel/UC2gQaoCItAC-IbT8RNwWqLQ)
+10. [**Anurag Singhal**](https://www.youtube.com/user/poweryourpreparation)
+
 ------------------------
 ### **Mistakes**
 0. Coming to Kudankulam + Not being serious about KVPY/NTSE/IMO etc. (Never ever prepared for it. Regret it to this date).
@@ -333,22 +343,23 @@ Similarly, at work, I got the toughest team. GPU Team.
 
 ------------------------
 ### **Highlights**
-0. Interviewing with a top Semiconductor Firm in the World for a position in HQ.
-1. Working with Dr. Yao Wen Chang on Physical Design Problems.
-2. VIT VLSI & Interacting with the B.Tech CS Grads from VIT (Cambuzz).
-3. Trip to Thailand during first year of work.
-4. 2 Tape-outs from Qualcomm (GPU Implementation)
-5. Design Internship at **The Minimalist**. (Didn't pursue)
-6. CS Internship at **IIT Madras**. (Didn't pursue)
-7. Interview with Marvell & Intel (went till final round).
-8. Internship with VSD (Kunal Ghosh). (Euler Path Generation for Digital Circuits)
-9. **ETH Zurich** researchers taking this repository for their research.
-10. Cracking **IIIT-Hyderabad** PGEE.
-11. Working with Nishant Mishra (BCG) on Teacher Transfer Portal Review Project.
-12. Wrote a lot of Quora and Medium Articles. (If that counts!).
-13. 70 Clones on this repository till date. (18th Nov 2020). (If this matters!). It is a metric that the information contained in this repository has benifitted at-least 70 cloners. And as an after effect, it would've made their lives better by saving thousands of man-hours which otherwise would have been invested in researching. I managed to make this world a better place indirectly.
-14. Got Validation from AMD-CTO (Data Center) **Mr. Raghu Nambiar** for this repository.
-15. Closed (not really) 2 clients from the United States through fiverr.com. They did come to me with business proposals.
+0. Interviewing with a top Semiconductor Firm in the World for a position in HQ [3 Times].
+1. PhD offer from NTU-Taiwan.
+2. Working with Dr. Yao Wen Chang on Physical Design Problems.
+3. VIT VLSI & Interacting with the B.Tech CS Grads from VIT (Cambuzz).
+4. Trip to Thailand during first year of work.
+5. 2 Tape-outs from Qualcomm (GPU Implementation)
+6. Design Internship at **The Minimalist**. (Didn't pursue)
+7. CS Internship at **IIT Madras**. (Didn't pursue)
+8. Interview with Marvell & Intel (went till final round).
+9. Internship with VSD (Kunal Ghosh). (Euler Path Generation for Digital Circuits)
+10. **ETH Zurich** researchers taking this repository for their research.
+11. Cracking **IIIT-Hyderabad** PGEE.
+12. Working with Nishant Mishra (BCG) on Teacher Transfer Portal Review Project.
+13. Wrote a lot of Quora and Medium Articles. (If that counts!).
+14. 70 Clones on this repository till date. (18th Nov 2020). (If this matters!). It is a metric that the information contained in this repository has benifitted at-least 70 cloners. And as an after effect, it would've made their lives better by saving thousands of man-hours which otherwise would have been invested in researching. I managed to make this world a better place indirectly.
+15. Got Validation from AMD-CTO (Data Center) **Mr. Raghu Nambiar** for this repository.
+16. Closed (not really) 2 clients from the United States through fiverr.com. They did come to me with business proposals.
 ------------------------
 ### **Random Ideas**
 
