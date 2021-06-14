@@ -192,14 +192,16 @@ Honorable Mentions --
 ### **Future**
 A long long way to go. I want to be with the best of the best people in the world. 
 
-1. **ISPD Contest**.
-2. **ICCAD Contest**.
-3. **Tau Contest**.
-4. **DAC Contest**.
-5. **CodeForces Graph Challenge**.
-6. **IOI Problems**.
-7. **ACM ICPC**.
-8. **Putnam Competition Problems + IMO Problems**
+1. [**ISPD Contest**](http://www.ispd.cc/contests/19/)
+2. [**ICCAD Contest**](http://iccad-contest.org/2021/)
+3. [**Tau Contest**](https://www.tauworkshop.com/2021/default.shtml)
+4. [**DAC Contest**](https://www.dac.com)
+5. [**CodeForces Graph Challenge**](https://codeforces.com/blog/entry/79078)
+6. [**IOI Problems**](https://ioinformatics.org).
+7. [**ACM ICPC**](https://icpc.global)
+8. [**Putnam Competition Problems**](https://www.maa.org/math-competitions/putnam-competition)
+9. [**IMO Problems**](https://imo2021.ru)
+10. [**CSES Problems**](https://cses.fi/problemset/)
 ------------------------
 ### **Doubts**
 1. Which has a better routing engine? Z-Route from Synopsys or Maps from Google.
