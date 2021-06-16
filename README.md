@@ -103,7 +103,7 @@ This is an excellent platform that is similar to LeetCode. I have learnt immense
 24. [**Principles by Ray Dalio**](https://www.youtube.com/c/principlesbyraydalio/playlists)
 25. [**Competitive Programming for Schools**](https://csprep.org/additional.html)
 26. [**CP Initiative**](https://joincpi.org)
-27. [**An awesome list of Competitive Programming**](https://codeforces.com/blog/entry/23054)
+27. [**An awesome list for Competitive Programming**](https://codeforces.com/blog/entry/23054)
 ------------------------
 ### **Intriguing Podcasts**
 1. [**Naval Ravikant**](https://podcasts.apple.com/us/podcast/naval/id1454097755)
