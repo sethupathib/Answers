@@ -325,7 +325,7 @@ Similarly, at work, I got the toughest team. GPU Team.
 14. [**Poets & Quants**](https://poetsandquants.com)
 
 ------------------------
-### ** Career Hacks/Habits/Investing**
+### **Career Hacks/Habits/Investing**
 1. Getting up early.
 2. Spending less time on "Youtube Surfing".
 3. Focussing on the present i.e giving all in.
