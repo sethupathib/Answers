@@ -206,6 +206,7 @@ A long long way to go. I want to be with the best of the best people in the worl
 8. [**Putnam Competition Problems**](https://www.maa.org/math-competitions/putnam-competition)
 9. [**IMO Problems**](https://imo2021.ru)
 10. [**CSES Problems**](https://cses.fi/problemset/)
+11. Write a book on Advanced STA later.
 ------------------------
 ### **Doubts**
 1. Which has a better routing engine? Z-Route from Synopsys or Maps from Google.
