@@ -74,15 +74,15 @@ This is an excellent platform that is similar to LeetCode. I have learnt immense
 
 ------------------------
 ### **Advice**
-I am open to advice startups/motivated individuals in the following areas --
+I am open to advice motivated individuals in the following areas --
 1. Electronic Design Automation
 2. Static Timing Analysis
 3. Physical Design
 
 How to break into companies like Cadence, Synopsys, Mentor Graphics, Qualcomm, Intel, nVIDIA etc.
 Send your requests/queries to b.sethupathi@gmail.com. (I'll be charging an hourly rate for my sessions. Mail me to know more about it).
-------------------------
 
+------------------------
 ### **Intriguing Article List**
 1. [**The Gervais Principle, Or The Office According to “The Office".**](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
 2. [**A graphical introduction to dynamic programming.**](https://medium.com/@avik.das/a-graphical-introduction-to-dynamic-programming-2e981fa7ca2)
