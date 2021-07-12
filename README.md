@@ -79,7 +79,7 @@ I am open to advice motivated individuals in the following areas --
 2. Static Timing Analysis
 3. Physical Design
 
-How to break into companies like Cadence, Synopsys, Mentor Graphics, Qualcomm, Intel, nVIDIA etc.
+How to break into companies like TSMC, Cadence, Synopsys, Mentor Graphics, Qualcomm, Intel, nVIDIA etc.
 Send your requests/queries to b.sethupathi@gmail.com. (I'll be charging an hourly rate for my sessions. Mail me to know more about it).
 
 ------------------------
