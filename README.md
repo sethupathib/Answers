@@ -267,6 +267,7 @@ A long long way to go. I want to be with the best of the best people in the worl
 22. [**STA Lecture (Very Detailed for Beginners)**](https://www.eng.biu.ac.il/temanad/files/2018/12/Lecture-5-STA.pdf)
 23. [**Network Flows**](http://users.eecs.northwestern.edu/~haizhou/457/)
 24. [**Computational Geometry IITD**](https://www.youtube.com/watch?v=3Uxw7F75_-8&list=PLE1010BEDB031C039&index=1)
+25. [**Algorithms (Arindham Khan IISc)**](https://www.csa.iisc.ac.in/~arindamkhan/teaching.html#current)
 ------------------------
 ### **Progress Tracking**
 1. Bit Masking (Completed).
