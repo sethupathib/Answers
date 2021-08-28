@@ -361,7 +361,7 @@ Similarly, at work, I got the toughest team. GPU Team.
 
 ------------------------
 ### **Highlights**
-0. Interviewing with a top Semiconductor Firm in the World for a position in HQ [3 Times].
+0. Interviewing with a top Semiconductor Firm in the World for a position in HQ [5 Times] and internationally 4 other times. 
 1. PhD offer from NTU-Taiwan.
 2. Working with Dr. Yao Wen Chang on Physical Design Problems.
 3. VIT VLSI & Interacting with the B.Tech CS Grads from VIT (Cambuzz).
