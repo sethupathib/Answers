@@ -301,8 +301,15 @@ Similarly, at work, I got the toughest team. GPU Team.
 16. Exams that are "worthy" of chasing in India -- JEE/CAT/UPSC/NEET & maybe CEED. "GATE" is actually a downgrade. (I did it because I wanted to reach '0' from -(INT_MAX) ). 
 17. I tend to take things to my ego very fast. For eg. I didn't fare well in STA during my post grad times. However, I happened to have nailed STA when I entered the industry. Similarly, I was not so proficient in Programming, but later I spent a lot of time and cracked Research Intern at IIT-Madras.
 18. "Brazil" is kicking ass in Physical Design EDA. It makes me wonder 'How does a developing country become so good at EDA/Algorithms?'.
-19. Physical Design EDA Lobby is mostly manipulated by top researchers/businessmen. Surprisingly, a huge portion of the people belong to Asian and European ethnicity. (Specifically Taiwan, China, Russia, Swiss, Italy)  
-
+19. Physical Design EDA Lobby is mostly manipulated by top researchers/businessmen. Surprisingly, a huge portion of the people belong to Asian and European ethnicity. (Specifically Taiwan, China, Russia, Swiss, Italy) 
+ 
+------------------------
+### **Interests**
+1. More Algorithms
+2. More Design
+3. MBA from the US of A. (M3 only. Play the patience game till you get here.)
+4. Venture Capital (Post MBA) (Andreessen Horowitz, Tiger, Intel Capital, Google Ventures, Qualcomm Ventures)
+5. Private Equity (TPG, KKR, BlackStone, JPMC, GS)
 ------------------------
 ### **Much Later**
 1. Know about some analog designs from Sheryl.
