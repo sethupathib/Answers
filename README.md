@@ -309,7 +309,8 @@ Similarly, at work, I got the toughest team. GPU Team.
 2. More Design
 3. MBA from the US of A. (M3 only. Play the patience game till you get here.)
 4. Venture Capital (Post MBA) (Andreessen Horowitz, Tiger, Intel Capital, Google Ventures, Qualcomm Ventures)
-5. Private Equity (TPG, KKR, BlackStone, JPMC, GS)
+5. Private Equity (TPG, KKR, BlackStone, Carlyle, CVC Capital Partners)
+6. [**Understanding Private Equity**](https://www.investopedia.com/articles/markets/011116/worlds-top-10-private-equity-firms-apo-bx.asp)
 ------------------------
 ### **Much Later**
 1. Know about some analog designs from Sheryl.
