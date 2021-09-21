@@ -308,10 +308,11 @@ Similarly, at work, I got the toughest team. GPU Team.
 1. More Algorithms
 2. More Design
 3. MBA from the US of A. (M3 only. Play the patience game till you get here.)
-4. Venture Capital (Post MBA) (Andreessen Horowitz, Tiger, Intel Capital, Google Ventures, Qualcomm Ventures)
+4. Venture Capital (Post MBA) (Andreessen Horowitz, Tiger, Intel Capital, Google Ventures, Qualcomm Ventures, Khosla Ventures)
 5. Private Equity (TPG, KKR, BlackStone, Carlyle, CVC Capital Partners)
 6. [**Understanding Private Equity**](https://www.investopedia.com/articles/markets/011116/worlds-top-10-private-equity-firms-apo-bx.asp)
 7. [**GMAT Prep**](https://drive.google.com/drive/u/0/folders/1fG5ahvWvlmZvqnp1FLXtfUILLdhqJyAV).
+8. [**Vinod Khosla Resources**](https://www.khoslaventures.com/resources) + [**Vinod Khosla Blog**](https://www.khoslaventures.com/blog/all)
 ------------------------
 ### **Much Later**
 1. Know about some analog designs from Sheryl.
