@@ -313,6 +313,7 @@ Similarly, at work, I got the toughest team. GPU Team.
 6. [**Understanding Private Equity**](https://www.investopedia.com/articles/markets/011116/worlds-top-10-private-equity-firms-apo-bx.asp)
 7. [**GMAT Prep**](https://drive.google.com/drive/u/0/folders/1fG5ahvWvlmZvqnp1FLXtfUILLdhqJyAV).
 8. [**Vinod Khosla Resources**](https://www.khoslaventures.com/resources) + [**Vinod Khosla Blog**](https://www.khoslaventures.com/blog/all)
+9. [**Finance Skills**](https://www.fincradle.com/course/investment-banking-and-financial-modelling-ibfm-)
 ------------------------
 ### **Much Later**
 1. Know about some analog designs from Sheryl.
