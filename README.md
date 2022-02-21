@@ -113,6 +113,7 @@ Send your requests/queries to b.sethupathi@gmail.com.
 25. [**Competitive Programming for Schools**](https://csprep.org/additional.html)
 26. [**CP Initiative**](https://joincpi.org)
 27. [**An awesome list for Competitive Programming**](https://codeforces.com/blog/entry/23054)
+28. [**Finance**](https://github.com/sethupathib/Answers/blob/master/Finance)
 ------------------------
 ### **Intriguing Podcasts**
 1. [**Naval Ravikant**](https://podcasts.apple.com/us/podcast/naval/id1454097755)
