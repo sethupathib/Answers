@@ -456,3 +456,15 @@ Similarly, at work, I got the toughest team. GPU Team.
 43. Attitude is Everything. 
 44. I am not what happened to me. I am what I choose to become. -- Carl Jung
 45. If you do the right things, the right things will happen to you even without your intent.
+46. How you spend time is how you earn time.
+47. Kindness > Honesty > Clarity > Correctness > Efficiency. - Jeff Erickson (Prof. of CS, UIUC)
+48. Progress is cumulative and almost invisible, until it isn't. So is decline.
+49. The quality of your mind is the quality of your life. - Naval
+50. The more we value things outside our control, the less control we have. – Epictetus
+51. Smart men go broke three ways - liquor, ladies and leverage. - Charlie Munger
+52. An org’s culture is truly a reflection of its founder’s personality. Classic Example - Cadence & ASV.
+53. Upgrade your environment because your environment upgrades you.
+54. The inner voice is never wrong!! Always, listen to it!!
+55. Focus is determined by what you ignore.
+56. Find a way to give value to other people. Everything you want in life is on the other side of you serving others. - @saifedean aka "Giver's Gain"
+ 
