@@ -224,6 +224,7 @@ A long long way to go. I want to be with the best of the best people in the worl
 16. [**Algo Zenith**](https://algozenith.com/)
 17. [**CF Blog (All CS Topics)**](https://codeforces.com/blog/entry/91363)
 18. [**CF Catalog**](https://codeforces.com/catalog)
+19. [**Theorem Dependancy**](https://sharmaeklavya2.github.io/theoremdep/)
 ------------------------
 ### **Doubts**
 1. Which has a better routing engine? Z-Route from Synopsys or Maps from Google.
