@@ -115,6 +115,7 @@ Send your requests/queries to b.sethupathi@gmail.com.
 27. [**An awesome list for Competitive Programming**](https://codeforces.com/blog/entry/23054)
 28. [**Finance**](https://github.com/sethupathib/Answers/blob/master/Finance)
 29. [**Balmanack -- Recommended Reading**](https://www.balmanack.com/balajis-recommended-reading)
+30. [**Everything CS**](https://github.com/Developer-Y/cs-video-courses#data-structures-and-algorithms)
 ------------------------
 ### **Intriguing Podcasts**
 1. [**Naval Ravikant**](https://podcasts.apple.com/us/podcast/naval/id1454097755)
