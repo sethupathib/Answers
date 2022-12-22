@@ -116,6 +116,7 @@ Send your requests/queries to b.sethupathi@gmail.com.
 28. [**Finance**](https://github.com/sethupathib/Answers/blob/master/Finance)
 29. [**Balmanack -- Recommended Reading**](https://www.balmanack.com/balajis-recommended-reading)
 30. [**Everything CS**](https://github.com/Developer-Y/cs-video-courses#data-structures-and-algorithms)
+31. [**Personal Finance for Engineers - Stanford**](https://cs007.blog/)
 ------------------------
 ### **Intriguing Podcasts**
 1. [**Naval Ravikant**](https://podcasts.apple.com/us/podcast/naval/id1454097755)
