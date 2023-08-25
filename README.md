@@ -114,7 +114,6 @@ Send your requests/queries to b.sethupathi@gmail.com.
 26. [**CP Initiative**](https://joincpi.org)
 27. [**An awesome list for Competitive Programming**](https://codeforces.com/blog/entry/23054)
 28. [**Finance**](https://github.com/sethupathib/Answers/blob/master/Finance)
-29. [**Balmanack -- Recommended Reading**](https://www.balmanack.com/balajis-recommended-reading)
 30. [**Everything CS**](https://github.com/Developer-Y/cs-video-courses#data-structures-and-algorithms)
 31. [**Personal Finance for Engineers - Stanford**](https://cs007.blog/)
 ------------------------
@@ -228,6 +227,7 @@ A long long way to go. I want to be with the best of the best people in the worl
 17. [**CF Blog (All CS Topics)**](https://codeforces.com/blog/entry/91363)
 18. [**CF Catalog**](https://codeforces.com/catalog)
 19. [**Theorem Dependancy**](https://sharmaeklavya2.github.io/theoremdep/)
+20. [**Algorithm Notes**](https://github.com/zemen/Jinotega-notebook/tree/master/algo)
 ------------------------
 ### **Doubts**
 1. Which has a better routing engine? Z-Route from Synopsys or Maps from Google.
