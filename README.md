@@ -361,6 +361,7 @@ Similarly, at work, I got the toughest team. GPU Team.
 12. [**InsideIIM**](https://insideiim.com)
 13. [**Insight IIT**](https://www.insightiitb.org)
 14. [**Poets & Quants**](https://poetsandquants.com)
+15. 
 
 ------------------------
 ### **Career Hacks/Habits/Investing**
@@ -370,10 +371,12 @@ Similarly, at work, I got the toughest team. GPU Team.
 4. Eating Healthy.
 5. [**Rajan Singh**](https://www.youtube.com/channel/UCoOmmbxxZxL9833L21LR-_Q)
 6. [**Akshat Shrivatsava**](https://www.youtube.com/channel/UCqW8jxh4tH1Z1sWPbkGWL4g)
-7. [**Ankur Warikoo**](https://www.youtube.com/channel/UCRzYN32xtBf3Yxsx5BvJWJw)
 8. [**Chetan Bhagat**](https://www.youtube.com/channel/UCMhRbMzPqr_vca_bISQyvsA)
 9. [**Shwetabh Gangwar**](https://www.youtube.com/channel/UC2gQaoCItAC-IbT8RNwWqLQ)
 10. [**Anurag Singhal**](https://www.youtube.com/user/poweryourpreparation)
+11. [**Anand Srinivasan**]
+12. [**Basant Maheshwari**]
+13. [**Gautham Baid**]
 
 ------------------------
 ### **Mistakes**
